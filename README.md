@@ -15,12 +15,9 @@
 * 联系我：
   * [admin@kisechan.space](mailto:admin@kisechan.space)
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kisechan&theme=nord_bright" style="max-width: 100%;">
-</div>
+<figure style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kisechan&theme=nord_bright" style="max-width: 49%;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kisechan&theme=nord_bright" style="max-width: 49%;">
+</figure>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kisechan&theme=nord_bright" style="max-width: 100%;">
-</div>
-
-> [头图 pid: 120873581](https://www.pixiv.net/artworks/120873581)
+> 本页头图 [pid: 120873581](https://www.pixiv.net/artworks/120873581)
