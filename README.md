@@ -15,12 +15,12 @@
 </div>
 
 <div align="center">
-  <table style="width: 100%; display:inline-table; border-collapse: collapse;">
-    <tr style="border:0;">
-      <td width="50%" style="border:0; padding: 10px;">
+  <table style="width: 100%; display:inline-table; border-collapse: collapse; border:none !important;">
+    <tr>
+      <td width="50%" style="border:none !important; padding: 10px;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kisechan&theme=nord_bright">
       </td>
-      <td width="50%" style="border:0; padding: 10px;">
+      <td width="50%" style="border:none !important; padding: 10px;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kisechan&theme=nord_bright">
       </td>
     </tr>
