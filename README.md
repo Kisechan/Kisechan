@@ -2,22 +2,35 @@
   <img src="https://images.kisechan.space/github-head.png" style="max-width: 100%;">
 </div>
 
-## Hello, Kisechan Here! :tada:
+<h1 align="center"> Hello, Kisechan Here! :tada:</h1>
+
+## Stats :flags:
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kisechan&theme=nord_bright" style="max-width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kisechan&hide=contribs&count_private=true&show_icons=true&theme=catppuccin_latte ">
 </div>
 
-* 我的个人主页：
-  * https://www.kisechan.space/
-* 我的博客：
-  * https://blog.kisechan.space/
-* 联系我：
-  * [admin@kisechan.space](mailto:admin@kisechan.space)
+## Programming :speech_balloon:
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kisechan&theme=nord_bright">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kisechan&theme=nord_bright">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisechan&hide=javascript,html">
 </div>
+
+## Contact :loudspeaker:
+
+<p align="center">
+  <a href="https://blog.kisechan.space/">
+    <img src="https://img.shields.io/badge/Blog-%E5%8D%9A%E5%AE%A2-23FFA500?logo=rss&logoColor=%23FFA500
+    " alt="博客"/>
+  </a>
+  <a href="mailto:admin@kisechan.space">
+    <img src="https://img.shields.io/badge/Email-%E9%82%AE%E7%AE%B1-EA4335?logo=maildotru&logoColor=%23005FF9&labelColor=white
+    " alt="邮箱"/>
+  </a>
+  <a href="https://kisechan.space/">
+    <img src="https://img.shields.io/badge/Mainpage-%E4%B8%BB%E9%A1%B5-0A66C2?logo=codementor&logoColor=%23003648&labelColor=%235AC4EE
+    " alt="主页"/>
+  </a>
+</p>
 
 > 本页头图 [pid: 120873581](https://www.pixiv.net/artworks/120873581)
