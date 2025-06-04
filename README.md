@@ -7,7 +7,7 @@
 ## Stats :flags:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kisechan&hide=contribs&count_private=true&show_icons=true&theme=catppuccin_latte ">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kisechan&hide=contribs&count_private=true&show_icons=true&theme=catppuccin_latte">
 </div>
 
 ## Programming :speech_balloon:
@@ -20,16 +20,13 @@
 
 <p align="center">
   <a href="https://blog.kisechan.space/">
-    <img src="https://img.shields.io/badge/Blog-%E5%8D%9A%E5%AE%A2-23FFA500?logo=rss&logoColor=%23FFA500
-    " alt="博客"/>
+    <img src="https://img.shields.io/badge/Blog-%E5%8D%9A%E5%AE%A2-23FFA500?logo=rss&logoColor=%23FFA500" alt="博客"/>
   </a>
   <a href="mailto:admin@kisechan.space">
-    <img src="https://img.shields.io/badge/Email-%E9%82%AE%E7%AE%B1-EA4335?logo=maildotru&logoColor=%23005FF9&labelColor=white
-    " alt="邮箱"/>
+    <img src="https://img.shields.io/badge/Email-%E9%82%AE%E7%AE%B1-EA4335?logo=maildotru&logoColor=%23005FF9&labelColor=white" alt="邮箱"/>
   </a>
   <a href="https://kisechan.space/">
-    <img src="https://img.shields.io/badge/Mainpage-%E4%B8%BB%E9%A1%B5-0A66C2?logo=codementor&logoColor=%23003648&labelColor=%235AC4EE
-    " alt="主页"/>
+    <img src="https://img.shields.io/badge/Mainpage-%E4%B8%BB%E9%A1%B5-0A66C2?logo=codementor&logoColor=%23003648&labelColor=%235AC4EE" alt="主页"/>
   </a>
 </p>
 
