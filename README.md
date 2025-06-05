@@ -4,6 +4,8 @@
 
 <h1 align="center"> Hello, Kisechan Here! :tada:</h1>
 
+<p aligh="center">"Non est ad astra mollis e trris via."</p>
+
 ## Stats :flags:
 
 <div align="center">
@@ -25,7 +27,7 @@
   <a href="mailto:admin@kisechan.space">
     <img src="https://img.shields.io/badge/Email-%E9%82%AE%E7%AE%B1-EA4335?logo=maildotru&logoColor=%23005FF9&labelColor=white" alt="邮箱"/>
   </a>
-  <a href="https://kisechan.space/">
+  <a href="https://www.kisechan.space/">
     <img src="https://img.shields.io/badge/Mainpage-%E4%B8%BB%E9%A1%B5-0A66C2?logo=codementor&logoColor=%23003648&labelColor=%235AC4EE" alt="主页"/>
   </a>
 </p>
