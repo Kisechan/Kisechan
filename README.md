@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://images.kisechan.space/github-head.png" style="max-width: 100%;">
-</div>
-
 <h1 align="center"> Hello, Kisechan Here! :tada:</h1>
 
 <p aligh="center">"Non est ad astra mollis e trris via."</p>
@@ -32,4 +28,6 @@
   </a>
 </p>
 
-> 本页头图 [pid: 120873581](https://www.pixiv.net/artworks/120873581)
+<div align="center">
+  <img src="https://images.kisechan.space/github-head.png" style="max-width: 100%;" alt="pid: 120873581">
+</div>
