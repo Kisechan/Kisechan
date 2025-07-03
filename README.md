@@ -1,6 +1,12 @@
 <h1 align="center"> Hello, Kisechan Here! :tada:</h1>
 
-<p aligh="center">"Non est ad astra mollis e trris via."</p>
+<div aligh="center"><p>"Non est ad astra mollis e trris via."</p></div>
+
+## Contributions :floppy_disk:
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kisechan&theme=minimal">
+</div>
 
 ## Stats :flags:
 
