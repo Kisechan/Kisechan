@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://count.getloli.com/@Kisechan?name=Kisechan&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Kisechan" />
+</div>
+
 <h1 align="center"> Hello, Kisechan Here! :tada:</h1>
 
 <div aligh="center"><p>"Non est ad astra mollis e trris via."</p></div>
