@@ -21,7 +21,7 @@
 ## Programming :speech_balloon:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisechan&hide=javascript,html">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisechan&hide=javascript,html,css">
 </div>
 
 ## Contact :loudspeaker:
