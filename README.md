@@ -22,6 +22,8 @@
 
 ### Tools & Tech-Stacks :movie_camera:
 
+<div align="center">
+
 [![Static Badge](https://img.shields.io/badge/Ubuntu-%23E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Static Badge](https://img.shields.io/badge/Windows-%230854C1?style=flat-square&logoColor=white)](https://www.microsoft.com/zh-cn/windows/)
 
@@ -54,6 +56,8 @@
 [![Static Badge](https://img.shields.io/badge/CLion-%23000000?style=flat-square&logo=clion&logoColor=white)](https://www.jetbrains.com/clion/)
 [![Static Badge](https://img.shields.io/badge/PyCharm-%23000000?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 [![Static Badge](https://img.shields.io/badge/Google_Chrome-%234285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://www.google.com/intl/zh-CN/chrome/)
+
+</div>
 
 ## Reach Me :loudspeaker:
 
