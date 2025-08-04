@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://count.getloli.com/@Kisechan?name=Kisechan&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Kisechan" />
-</div>
-
 <h1 align="center"> Hello, Kisechan Here! :tada:</h1>
 
 <div aligh="center"><p>"Non est ad astra mollis e trris via."</p></div>
@@ -12,19 +8,52 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kisechan&theme=minimal">
 </div>
 
-## Stats :flags:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kisechan&hide=contribs&count_private=true&show_icons=true&theme=catppuccin_latte">
-</div>
-
 ## Programming :speech_balloon:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisechan&hide=javascript,html,css">
 </div>
 
-## Contact :loudspeaker:
+### Stats :flags:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kisechan&hide=contribs&count_private=true&show_icons=true&theme=catppuccin_latte">
+</div>
+
+### Tools & Tech-Stacks :movie_camera:
+
+[![Static Badge](https://img.shields.io/badge/Ubuntu-%23E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Static Badge](https://img.shields.io/badge/Windows-%230854C1?style=flat-square&logoColor=white)](https://www.microsoft.com/zh-cn/windows/)
+
+[![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?style=flat-square&logo=c&logoColor=white)](https://www.c-language.org/)
+[![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=c&logoColor=white)](https://cplusplus.com/)
+[![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Static Badge](https://img.shields.io/badge/Go-%2300ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
+
+[![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)](https://www.w3.org/TR/2011/WD-html5-20110405/index.html)
+[![Static Badge](https://img.shields.io/badge/CSS-%23663399?style=flat-square&logo=css&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://www.javascript.com/)
+
+[![Static Badge](https://img.shields.io/badge/LaTeX-%23008080?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/)
+[![Static Badge](https://img.shields.io/badge/Typst-%23239DAD?style=flat-square&logo=typst&logoColor=white)](https://typst.app/)
+[![Static Badge](https://img.shields.io/badge/Markdown-%23000000?style=flat-square&logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
+
+[![Static Badge](https://img.shields.io/badge/Vue.js-%234FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
+[![Static Badge](https://img.shields.io/badge/Vite-%23646CFF?style=flat-square&logo=vite&logoColor=white](https://cn.vite.dev/)
+
+[![Static Badge](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Static Badge](https://img.shields.io/badge/Anaconda-%2344A833?style=flat-square&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
+
+[![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?style=flat-square&logo=sqlite&logoColor=white)](https://sqlite.org/)
+[![Static Badge](https://img.shields.io/badge/Redis-%23FF4438?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
+
+[![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![Static Badge](https://img.shields.io/badge/VSCode-%232F80ED?style=flat-square&logo=vscodium&logoColor=white)](https://code.visualstudio.com/)
+[![Static Badge](https://img.shields.io/badge/CLion-%23000000?style=flat-square&logo=clion&logoColor=white)](https://www.jetbrains.com/clion/)
+[![Static Badge](https://img.shields.io/badge/PyCharm-%23000000?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![Static Badge](https://img.shields.io/badge/Google_Chrome-%234285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://www.google.com/intl/zh-CN/chrome/)
+## Reach Me :loudspeaker:
 
 <p align="center">
   <a href="https://blog.kisechan.space/">
@@ -40,4 +69,8 @@
 
 <div align="center">
   <img src="https://images.kisechan.space/github-head.png" style="max-width: 100%;" alt="pid: 120873581">
+</div>
+
+<div align="center">
+  <img src="https://count.getloli.com/@Kisechan?name=Kisechan&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Kisechan" />
 </div>
