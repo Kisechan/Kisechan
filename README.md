@@ -60,6 +60,7 @@
 <!-- IDEs and Tools -->
 
 [![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![Static Badge](https://img.shields.io/badge/Bash-%234EAA25?style=flat-square&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 [![Static Badge](https://img.shields.io/badge/GitHub_Pages-%23222222?style=flat-square&logo=githubpages&logoColor=white)](https://pages.github.com/)
 [![Static Badge](https://img.shields.io/badge/VSCode-%232F80ED?style=flat-square&logo=vscodium&logoColor=white)](https://code.visualstudio.com/)
