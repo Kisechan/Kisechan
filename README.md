@@ -38,19 +38,23 @@
 <!-- Programming Languages -->
 
 [![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?style=flat-square&logo=c&logoColor=white)](https://www.c-language.org/)
-[![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=c&logoColor=white)](https://cplusplus.com/)
+[![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=cplusplus&logoColor=white)](https://cplusplus.com/)
 [![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Static Badge](https://img.shields.io/badge/Go-%2300ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
 [![Static Badge](https://img.shields.io/badge/Java-%23f89820?style=flat-square&logo=coffeescript&logoColor=white)](https://www.java.com/zh-CN/)
 [![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)](https://www.w3.org/TR/2011/WD-html5-20110405/index.html)
 [![Static Badge](https://img.shields.io/badge/CSS-%23663399?style=flat-square&logo=css&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://www.javascript.com/)
+[![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 <!-- Frames -->
 
 [![Static Badge](https://img.shields.io/badge/Vue.js-%234FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
 [![Static Badge](https://img.shields.io/badge/Vite-%23646CFF?style=flat-square&logo=vite&logoColor=white)](https://cn.vite.dev/)
+[![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/zh-cn)
+[![Static Badge](https://img.shields.io/badge/Electron-%2347848F?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/zh/)
 [![Static Badge](https://img.shields.io/badge/Hexo-%230E83CD?style=flat-square&logo=hexo&logoColor=white)](https://hexo.io/zh-cn/)
+
 [![Static Badge](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Static Badge](https://img.shields.io/badge/Anaconda-%2344A833?style=flat-square&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
 [![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -61,15 +65,15 @@
 
 [![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![Static Badge](https://img.shields.io/badge/Bash-%234EAA25?style=flat-square&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-[![Static Badge](https://img.shields.io/badge/GitHub_Pages-%23222222?style=flat-square&logo=githubpages&logoColor=white)](https://pages.github.com/)
+[![Static Badge](https://img.shields.io/badge/Chrome-%234285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://www.google.com/intl/zh-CN/chrome/)
+[![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Static Badge](https://img.shields.io/badge/Termius-%23000000?style=flat-square&logo=termius&logoColor=white)](https://termius.com/)
+
+
 [![Static Badge](https://img.shields.io/badge/VSCode-%232F80ED?style=flat-square&logo=vscodium&logoColor=white)](https://code.visualstudio.com/)
 [![Static Badge](https://img.shields.io/badge/CLion-%23000000?style=flat-square&logo=clion&logoColor=white)](https://www.jetbrains.com/clion/)
 [![Static Badge](https://img.shields.io/badge/IntelliJ_IDEA-%23000000?style=flat-square&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Static Badge](https://img.shields.io/badge/PyCharm-%23000000?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
-[![Static Badge](https://img.shields.io/badge/Chrome-%234285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://www.google.com/intl/zh-CN/chrome/)
-[![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Static Badge](https://img.shields.io/badge/Termius-%23000000?style=flat-square&logo=termius&logoColor=white)](https://termius.com/)
 
 </div>
 
