@@ -1,23 +1,16 @@
-<h1 align="center"> Hello, Kisechan Here! :tada:</h1>
+<h1 align="center"><i>"Non est ad astra mollis e trris via."</i></h1>
 
-<div aligh="center"><p>"Non est ad astra mollis e trris via."</p></div>
+Here is **Kisechan**, a junior majored in SE, retired CChOer.
 
-## Contributions :floppy_disk:
+## Programming :speech_balloon:
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kisechan&theme=minimal">
 </div>
 
-## Programming :speech_balloon:
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisechan&hide=javascript,html,css">
-</div>
-
-### Stats :flags:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kisechan&hide=contribs&count_private=true&show_icons=true&theme=catppuccin_latte">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisechan&hide=html,css&exclude_repo=kisechan.github.io,kisechan,blog-source&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kisechan&hide=contribs&count_private=true&show_icons=true&line_height=24">
 </div>
 
 ### Tools & Tech-Stacks :movie_camera:
