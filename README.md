@@ -85,9 +85,9 @@ Here is **Kisechan**, a junior majored in SE, retired CChOer.
 </p>
 
 <div align="center">
-  <img src="https://images.kisechan.space/github-head.png" style="width: 256px;" alt="pid: 120873581">
+  <img src="https://images.kisechan.space/github-head.png" style="width: 360px;" alt="pid: 120873581">
 </div>
 
 <div align="center">
-  <img src="https://count.getloli.com/@Kisechan?name=Kisechan&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" style="width: 256px;" alt="Kisechan" />
+  <img src="https://count.getloli.com/@Kisechan?name=Kisechan&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" style="width: 320px;" alt="Kisechan" />
 </div>
