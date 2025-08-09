@@ -2,6 +2,10 @@
 
 Here is **Kisechan**, a junior majored in SE, retired CChOer.
 
+<div align="center">
+  <img src="https://count.getloli.com/@Kisechan?name=Kisechan&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" style="max-width: 500px;" alt="Kisechan" />
+</div>
+
 ## Programming :speech_balloon:
 
 <div align="center">
@@ -9,8 +13,8 @@ Here is **Kisechan**, a junior majored in SE, retired CChOer.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisechan&hide=html,css&exclude_repo=kisechan.github.io,kisechan,blog-source&layout=compact">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kisechan&hide=contribs&count_private=true&show_icons=true&line_height=24">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kisechan&hide=contribs&count_private=true&show_icons=true&line_height=24&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisechan&hide=html,css&exclude_repo=kisechan.github.io,kisechan,blog-source&layout=compact&hide_border=true">
 </div>
 
 ### Tools & Tech-Stacks :movie_camera:
@@ -85,9 +89,5 @@ Here is **Kisechan**, a junior majored in SE, retired CChOer.
 </p>
 
 <div align="center">
-  <img src="https://images.kisechan.space/github-head.png" style="max-width: 100%;" alt="pid: 120873581">
-</div>
-
-<div align="center">
-  <img src="https://count.getloli.com/@Kisechan?name=Kisechan&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Kisechan" />
+  <img src="https://images.kisechan.space/github-head.png" style="max-width: 400px;" alt="pid: 120873581">
 </div>
