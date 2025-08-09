@@ -2,10 +2,6 @@
 
 Here is **Kisechan**, a junior majored in SE, retired CChOer.
 
-<div align="center">
-  <img src="https://count.getloli.com/@Kisechan?name=Kisechan&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" style="max-width: 500px;" alt="Kisechan" />
-</div>
-
 ## Programming :speech_balloon:
 
 <div align="center">
@@ -89,5 +85,9 @@ Here is **Kisechan**, a junior majored in SE, retired CChOer.
 </p>
 
 <div align="center">
-  <img src="https://images.kisechan.space/github-head.png" style="max-width: 400px;" alt="pid: 120873581">
+  <img src="https://images.kisechan.space/github-head.png" style="max-width: 256px;" alt="pid: 120873581">
+</div>
+
+<div align="center">
+  <img src="https://count.getloli.com/@Kisechan?name=Kisechan&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" style="max-width: 256px;" alt="Kisechan" />
 </div>
