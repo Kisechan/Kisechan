@@ -19,6 +19,7 @@ jobs:
           feed_list: "https://blog.kisechan.space/atom.xml"
           max_post_count: 5
           date_format: "yyyy-mm-dd"
-          template: "• [$date] $title"
+          template: '<li><a href="$url">$title</a></li>$newline'
           comment_tag_name: "BLOG-POST-LIST"
-          readme_file: "README.md"
+          readme_path: "README.md"
+          committer_email: "kisechan_@outlook.com"
