@@ -4,9 +4,9 @@ Here is **Kisechan**, a junior majored in SE, retired CChOer.
 
 ## Programming :speech_balloon:
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kisechan&theme=minimal">
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kisechan&hide=contribs&count_private=true&show_icons=true&line_height=24&hide_border=true">
@@ -69,6 +69,11 @@ Here is **Kisechan**, a junior majored in SE, retired CChOer.
 [![Static Badge](https://img.shields.io/badge/PyCharm-%23000000?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 
 </div>
+
+## My Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Reach Me :loudspeaker:
 
