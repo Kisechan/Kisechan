@@ -72,8 +72,7 @@ Here is **Kisechan**, a junior majored in SE, retired CChOer.
 
 ## My Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->• [2025-07-10] 用 Typst 排版一份概率论笔记• [2025-07-08] 网页浏览计数服务• [2025-06-30] 自部署 Gitea• [2025-06-24] Java 程序设计• [2025-06-15] 概率论与数理统计<!-- BLOG-POST-LIST:END -->
 
 ## Reach Me :loudspeaker:
 
