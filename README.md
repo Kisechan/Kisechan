@@ -74,14 +74,16 @@ Here is **Kisechan**, a junior majored in SE, retired CChOer.
 
 Here is my latest [blog](https://blog.kisechan.space/) post:
 
-<table>
-  <tr>
-    <th>Title & Publish Date</th>
-    <th>Tags</th>
-    <!-- BLOG-POST-LIST:START -->
-    <!-- BLOG-POST-LIST:END -->
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <th>Title & Publish Date</th>
+      <th>Tags</th>
+      <!-- BLOG-POST-LIST:START -->
+      <!-- BLOG-POST-LIST:END -->
+    </tr>
+  </table>
+</div>
 
 ## Reach Me :loudspeaker:
 
