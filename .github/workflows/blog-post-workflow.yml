@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
+    - cron: "0 * * * *" # Runs every hour, on the hour
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 permissions:
   contents: write # To write the generated contents to the readme
@@ -19,7 +19,18 @@ jobs:
           feed_list: "https://blog.kisechan.space/atom.xml"
           max_post_count: 5
           date_format: "yyyy-mm-dd"
-          template: '<li><a href="$url">$title</a></li>$newline'
+          template: >-
+            <tr>
+              <td>
+                <a href="$url"><b>$title</b></a>
+                <br/>
+                <small>发布于: $date</small>
+              </td>
+              <td>$categories</td>
+            </tr>
           comment_tag_name: "BLOG-POST-LIST"
           readme_path: "README.md"
+          commit_message: "Automatically updated blog post list"
           committer_email: "kisechan_@outlook.com"
+          committer_username: "Blog-Post-Bot"
+          categories_template: "<code>$category</code> "

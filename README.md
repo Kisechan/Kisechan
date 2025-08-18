@@ -70,14 +70,18 @@ Here is **Kisechan**, a junior majored in SE, retired CChOer.
 
 </div>
 
-## My Blog Posts
+## Blog Posts :fire:
 
-<!-- BLOG-POST-LIST:START --><li><a href="https://blog.kisechan.space/2025/typst-ptms/">用 Typst 排版一份概率论笔记</a></li>
-<li><a href="https://blog.kisechan.space/2025/view-counter/">网页浏览计数服务</a></li>
-<li><a href="https://blog.kisechan.space/2025/site-gitea/">自部署 Gitea</a></li>
-<li><a href="https://blog.kisechan.space/2025/notes-java/">Java 程序设计</a></li>
-<li><a href="https://blog.kisechan.space/2025/notes-ptms/">概率论与数理统计</a></li>
-<!-- BLOG-POST-LIST:END -->
+Here is my latest [blog](https://blog.kisechan.space/) post:
+
+<table>
+  <tr>
+    <th>Title & Publish Date</th>
+    <th>Tags</th>
+    <!-- BLOG-POST-LIST:START -->
+    <!-- BLOG-POST-LIST:END -->
+  </tr>
+</table>
 
 ## Reach Me :loudspeaker:
 
