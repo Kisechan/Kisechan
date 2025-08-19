@@ -74,11 +74,11 @@ Here is **Kisechan**, a junior majored in SE, retired CChOer.
 
 Here is my latest [blog](https://blog.kisechan.space/) post:
 
-<!-- BLOG-POST-LIST:START --><li> 🔥 <a href="https://blog.kisechan.space/2025/typst-ptms/">用 Typst 排版一份概率论笔记</a> 🗓 2025-07-10 </li>
-<li> 💎 <a href="https://blog.kisechan.space/2025/view-counter/">网页浏览计数服务</a> 🗓 2025-07-08 </li>
-<li> 💎 <a href="https://blog.kisechan.space/2025/site-gitea/">自部署 Gitea</a> 🗓 2025-06-30 </li>
-<li> 🎈 <a href="https://blog.kisechan.space/2025/notes-java/">Java 程序设计</a> 🗓 2025-06-24 </li>
-<li> 🎀 <a href="https://blog.kisechan.space/2025/notes-ptms/">概率论与数理统计</a> 🗓 2025-06-15 </li>
+<!-- BLOG-POST-LIST:START --><li> 💎 <a href="https://blog.kisechan.space/2025/typst-ptms/">用 Typst 排版一份概率论笔记</a> | 🗓 <b>2025-07-10</b> </li>
+<li> 🎀 <a href="https://blog.kisechan.space/2025/view-counter/">网页浏览计数服务</a> | 🗓 <b>2025-07-08</b> </li>
+<li> 🎀 <a href="https://blog.kisechan.space/2025/site-gitea/">自部署 Gitea</a> | 🗓 <b>2025-06-30</b> </li>
+<li> 🎈 <a href="https://blog.kisechan.space/2025/notes-java/">Java 程序设计</a> | 🗓 <b>2025-06-24</b> </li>
+<li> 🎁 <a href="https://blog.kisechan.space/2025/notes-ptms/">概率论与数理统计</a> | 🗓 <b>2025-06-15</b> </li>
 <!-- BLOG-POST-LIST:END -->
 
 ## Reach Me :loudspeaker:
