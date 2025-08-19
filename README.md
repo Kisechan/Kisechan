@@ -81,37 +81,37 @@ Here is my latest [blog](https://blog.kisechan.space/) post:
       <th>Tags</th>
       <!-- BLOG-POST-LIST:START --><tr>
   <td>
-    <a href="https://blog.kisechan.space/2025/typst-ptms/"><b>用 Typst 排版一份概率论笔记</b></a>
+    <a href="https://blog.kisechan.space/2025/typst-ptms/"><b>🌮 用 Typst 排版一份概率论笔记</b></a>
     <br/>
-    <small>发布于: 2025-07-10</small>
+    <small align="right">2025-07-10</small>
   </td>
   <td></td>
 </tr><tr>
   <td>
-    <a href="https://blog.kisechan.space/2025/view-counter/"><b>网页浏览计数服务</b></a>
+    <a href="https://blog.kisechan.space/2025/view-counter/"><b>🚀 网页浏览计数服务</b></a>
     <br/>
-    <small>发布于: 2025-07-08</small>
+    <small align="right">2025-07-08</small>
   </td>
   <td></td>
 </tr><tr>
   <td>
-    <a href="https://blog.kisechan.space/2025/site-gitea/"><b>自部署 Gitea</b></a>
+    <a href="https://blog.kisechan.space/2025/site-gitea/"><b>🚀 自部署 Gitea</b></a>
     <br/>
-    <small>发布于: 2025-06-30</small>
+    <small align="right">2025-06-30</small>
   </td>
   <td></td>
 </tr><tr>
   <td>
-    <a href="https://blog.kisechan.space/2025/notes-java/"><b>Java 程序设计</b></a>
+    <a href="https://blog.kisechan.space/2025/notes-java/"><b>💯 Java 程序设计</b></a>
     <br/>
-    <small>发布于: 2025-06-24</small>
+    <small align="right">2025-06-24</small>
   </td>
   <td></td>
 </tr><tr>
   <td>
-    <a href="https://blog.kisechan.space/2025/notes-ptms/"><b>概率论与数理统计</b></a>
+    <a href="https://blog.kisechan.space/2025/notes-ptms/"><b>💫 概率论与数理统计</b></a>
     <br/>
-    <small>发布于: 2025-06-15</small>
+    <small align="right">2025-06-15</small>
   </td>
   <td></td>
 </tr><!-- BLOG-POST-LIST:END -->
