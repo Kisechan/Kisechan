@@ -77,7 +77,7 @@ Here is my latest [blog](https://blog.kisechan.space/) post:
 <div align="center">
   <table>
     <tr>
-      <th>Title & Publish Date</th>
+      <th>Title</th>
       <th>Tags</th>
       <!-- BLOG-POST-LIST:START --><tr>
   <td>

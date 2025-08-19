@@ -19,18 +19,20 @@ jobs:
           feed_list: "https://blog.kisechan.space/atom.xml"
           max_post_count: 5
           date_format: "yyyy-mm-dd"
+          custom_tags: "post_tags/category:term/"
+          item_exec: "item.post_tags = item.post_tags.split(',').map(c => '<code>' + c.trim() + '</code>').join(' ')"
           template: >-
             <tr>
               <td>
-                <a href="$url"><b>$title</b></a>
+                <a href="$url"><b>$randomEmoji(💯,🔥,💫,🚀,🌮) $title</b></a>
                 <br/>
-                <small>发布于: $date</small>
+                <small align="right">$date</small>
               </td>
-              <td>$categories</td>
+              <td>$post_tags</td>
             </tr>
           comment_tag_name: "BLOG-POST-LIST"
           readme_path: "README.md"
           commit_message: "Automatically updated blog post list"
-          committer_email: "kisechan_@outlook.com"
+          # committer_email: "kisechan_@outlook.com"
           committer_username: "Blog-Post-Bot"
-          categories_template: "<code>$category</code> "
+          # categories_template: "<code>$category</code>"
