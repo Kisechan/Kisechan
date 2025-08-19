@@ -74,50 +74,10 @@ Here is **Kisechan**, a junior majored in SE, retired CChOer.
 
 Here is my latest [blog](https://blog.kisechan.space/) post:
 
-<div align="center">
-  <table>
-    <tr>
-      <th>Title</th>
-      <th>Tags</th>
-      <!-- BLOG-POST-LIST:START --><tr>
-  <td>
-    <a href="https://blog.kisechan.space/2025/typst-ptms/"><b>🌮 用 Typst 排版一份概率论笔记</b></a>
-    <br/>
-    <small align="right">2025-07-10</small>
-  </td>
-  <td></td>
-</tr><tr>
-  <td>
-    <a href="https://blog.kisechan.space/2025/view-counter/"><b>🚀 网页浏览计数服务</b></a>
-    <br/>
-    <small align="right">2025-07-08</small>
-  </td>
-  <td></td>
-</tr><tr>
-  <td>
-    <a href="https://blog.kisechan.space/2025/site-gitea/"><b>🚀 自部署 Gitea</b></a>
-    <br/>
-    <small align="right">2025-06-30</small>
-  </td>
-  <td></td>
-</tr><tr>
-  <td>
-    <a href="https://blog.kisechan.space/2025/notes-java/"><b>💯 Java 程序设计</b></a>
-    <br/>
-    <small align="right">2025-06-24</small>
-  </td>
-  <td></td>
-</tr><tr>
-  <td>
-    <a href="https://blog.kisechan.space/2025/notes-ptms/"><b>💫 概率论与数理统计</b></a>
-    <br/>
-    <small align="right">2025-06-15</small>
-  </td>
-  <td></td>
-</tr><!-- BLOG-POST-LIST:END -->
-    </tr>
-  </table>
-</div>
+<!-- BLOG-POST-LIST:START -->
+
+
+<!-- BLOG-POST-LIST:END -->
 
 ## Reach Me :loudspeaker:
 
