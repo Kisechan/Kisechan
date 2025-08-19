@@ -20,7 +20,6 @@ jobs:
           max_post_count: 5
           date_format: "yyyy-mm-dd"
           custom_tags: "post_tags/category:term/"
-          item_exec: "item.post_tags = item.post_tags.split(',').map(c => '<code>' + c.trim() + '</code>').join(' ')"
           template: >-
             <tr>
               <td>
