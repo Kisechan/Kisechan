@@ -21,7 +21,7 @@ jobs:
           date_format: "yyyy-mm-dd"
           custom_tags: "post_tags/category:term/"
           template: >-
-            - $randomEmoji(🎈,🎇,🎁,🎀,💎,🔥) $title - 🗓 $date
+            <li> $randomEmoji(🎈,🎇,🎁,🎀,💎,🔥) <a href="$url">$title</a> 🗓 $date </li>$newline
           comment_tag_name: "BLOG-POST-LIST"
           readme_path: "README.md"
           commit_message: "Automatically updated blog post list"
