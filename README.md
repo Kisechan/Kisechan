@@ -74,11 +74,11 @@ Here is **Kisechan**, a junior majored in SE, retired CChOer.
 
 Here is my latest [blog](https://blog.kisechan.space/) post:
 
-<!-- BLOG-POST-LIST:START --><li> 💎 <a href="https://blog.kisechan.space/2025/github-actions-blog-update/">GitHub Profile 自动化更新最新博客文章</a> | 🗓 <b>2025-08-19</b> </li>
+<!-- BLOG-POST-LIST:START --><li> 💎 <a href="https://blog.kisechan.space/2025/shuodedaoli-deskpet/">制作一只非常可爱的说的道理桌宠</a> | 🗓 <b>2025-09-11</b> </li>
+<li> 🎀 <a href="https://blog.kisechan.space/2025/github-actions-blog-update/">GitHub Profile 自动化更新最新博客文章</a> | 🗓 <b>2025-08-19</b> </li>
 <li> 🎀 <a href="https://blog.kisechan.space/2025/typst-ptms/">用 Typst 排版一份概率论笔记</a> | 🗓 <b>2025-07-29</b> </li>
-<li> 🎀 <a href="https://blog.kisechan.space/2025/view-counter/">网页浏览计数服务</a> | 🗓 <b>2025-07-08</b> </li>
-<li> 🎈 <a href="https://blog.kisechan.space/2025/site-gitea/">自部署 Gitea</a> | 🗓 <b>2025-06-30</b> </li>
-<li> 🎁 <a href="https://blog.kisechan.space/2025/notes-java/">Java 程序设计</a> | 🗓 <b>2025-06-24</b> </li>
+<li> 🎈 <a href="https://blog.kisechan.space/2025/view-counter/">网页浏览计数服务</a> | 🗓 <b>2025-07-08</b> </li>
+<li> 🎁 <a href="https://blog.kisechan.space/2025/site-gitea/">自部署 Gitea</a> | 🗓 <b>2025-06-30</b> </li>
 <!-- BLOG-POST-LIST:END -->
 
 ## Reach Me :loudspeaker:
