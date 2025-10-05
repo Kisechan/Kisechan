@@ -34,7 +34,6 @@ Here is **Kisechan**, a junior majored in SE, retired CChOer.
 [![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=cplusplus&logoColor=white)](https://cplusplus.com/)
 [![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Static Badge](https://img.shields.io/badge/Go-%2300ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
-[![Static Badge](https://img.shields.io/badge/Java-%23f89820?style=flat-square&logo=coffeescript&logoColor=white)](https://www.java.com/zh-CN/)
 [![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)](https://www.w3.org/TR/2011/WD-html5-20110405/index.html)
 [![Static Badge](https://img.shields.io/badge/CSS-%23663399?style=flat-square&logo=css&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://www.javascript.com/)
@@ -54,25 +53,11 @@ Here is **Kisechan**, a junior majored in SE, retired CChOer.
 [![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?style=flat-square&logo=sqlite&logoColor=white)](https://sqlite.org/)
 [![Static Badge](https://img.shields.io/badge/Redis-%23FF4438?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
 
-<!-- IDEs and Tools -->
-
-[![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![Static Badge](https://img.shields.io/badge/Bash-%234EAA25?style=flat-square&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Static Badge](https://img.shields.io/badge/Chrome-%234285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://www.google.com/intl/zh-CN/chrome/)
-[![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Static Badge](https://img.shields.io/badge/Termius-%23000000?style=flat-square&logo=termius&logoColor=white)](https://termius.com/)
-
-
-[![Static Badge](https://img.shields.io/badge/VSCode-%232F80ED?style=flat-square&logo=vscodium&logoColor=white)](https://code.visualstudio.com/)
-[![Static Badge](https://img.shields.io/badge/CLion-%23000000?style=flat-square&logo=clion&logoColor=white)](https://www.jetbrains.com/clion/)
-[![Static Badge](https://img.shields.io/badge/IntelliJ_IDEA-%23000000?style=flat-square&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
-[![Static Badge](https://img.shields.io/badge/PyCharm-%23000000?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
-
 </div>
 
 ## Blog Posts :fire:
 
-Here is my latest [blog](https://blog.kisechan.space/) post:
+Here are my latest [blog](https://blog.kisechan.space/) posts:
 
 <!-- BLOG-POST-LIST:START --><li> 💎 <a href="https://blog.kisechan.space/2025/notes-networks/">计算机网络课程笔记</a> | 🗓 <b>2025-09-27</b> </li>
 <li> 🎀 <a href="https://blog.kisechan.space/2025/shuodedaoli-deskpet/">制作一只非常可爱的说的道理桌宠</a> | 🗓 <b>2025-09-11</b> </li>
