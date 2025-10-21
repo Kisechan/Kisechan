@@ -17,11 +17,6 @@ Here is **Kisechan**, a junior majored in SE, retired CChOer.
 
 <div align="center">
 
-<!-- OS -->
-
-[![Static Badge](https://img.shields.io/badge/Ubuntu-%23E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![Static Badge](https://img.shields.io/badge/Windows-%230854C1?style=flat-square&logoColor=white)](https://www.microsoft.com/zh-cn/windows/)
-
 <!-- LaTeX, Typst and Markdown -->
 
 [![Static Badge](https://img.shields.io/badge/LaTeX-%23008080?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/)
@@ -34,6 +29,7 @@ Here is **Kisechan**, a junior majored in SE, retired CChOer.
 [![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=cplusplus&logoColor=white)](https://cplusplus.com/)
 [![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Static Badge](https://img.shields.io/badge/Go-%2300ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
+[![Static Badge](https://img.shields.io/badge/Rust-%23000000?style=flat&logo=rust)](https://rust-lang.org/)
 [![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)](https://www.w3.org/TR/2011/WD-html5-20110405/index.html)
 [![Static Badge](https://img.shields.io/badge/CSS-%23663399?style=flat-square&logo=css&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://www.javascript.com/)
