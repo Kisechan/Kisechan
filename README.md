@@ -55,11 +55,11 @@ Here is **Kisechan**, a junior majored in SE, retired CChOer.
 
 Here are my latest [blog](https://blog.kisechan.space/) posts:
 
-<!-- BLOG-POST-LIST:START --><li> 💎 <a href="https://blog.kisechan.space/2025/site-pwa/">为博客增添 PWA 支持</a> | 🗓 <b>2025-10-10</b> </li>
+<!-- BLOG-POST-LIST:START --><li> 💎 <a href="https://blog.kisechan.space/2025/rust-taste/">体验 Rust 的特性</a> | 🗓 <b>2025-10-21</b> </li>
+<li> 🎀 <a href="https://blog.kisechan.space/2025/site-pwa/">为博客增添 PWA 支持</a> | 🗓 <b>2025-10-10</b> </li>
 <li> 🎀 <a href="https://blog.kisechan.space/2025/notes-networks/">计算机网络课程笔记</a> | 🗓 <b>2025-09-27</b> </li>
-<li> 🎀 <a href="https://blog.kisechan.space/2025/shuodedaoli-deskpet/">制作一只非常可爱的说的道理桌宠</a> | 🗓 <b>2025-09-11</b> </li>
-<li> 🎈 <a href="https://blog.kisechan.space/2025/github-actions-blog-update/">GitHub Profile 自动化更新最新博客文章</a> | 🗓 <b>2025-08-19</b> </li>
-<li> 🎁 <a href="https://blog.kisechan.space/2025/typst-ptms/">用 Typst 排版一份概率论笔记</a> | 🗓 <b>2025-07-29</b> </li>
+<li> 🎈 <a href="https://blog.kisechan.space/2025/shuodedaoli-deskpet/">制作一只非常可爱的说的道理桌宠</a> | 🗓 <b>2025-09-11</b> </li>
+<li> 🎁 <a href="https://blog.kisechan.space/2025/github-actions-blog-update/">GitHub Profile 自动化更新最新博客文章</a> | 🗓 <b>2025-08-19</b> </li>
 <!-- BLOG-POST-LIST:END -->
 
 ## Reach Me :loudspeaker:
