@@ -64,17 +64,9 @@ Here are my latest [blog](https://blog.kisechan.space/) posts:
 
 ## Reach Me :loudspeaker:
 
-<p align="center">
-  <a href="https://blog.kisechan.space/">
-    <img src="https://img.shields.io/badge/Blog-%E5%8D%9A%E5%AE%A2-23FFA500?logo=rss&logoColor=%23FFA500" alt="博客"/>
-  </a>
-  <a href="mailto:admin@kisechan.space">
-    <img src="https://img.shields.io/badge/Email-%E9%82%AE%E7%AE%B1-EA4335?logo=maildotru&logoColor=%23005FF9&labelColor=white" alt="邮箱"/>
-  </a>
-  <a href="https://www.kisechan.space/">
-    <img src="https://img.shields.io/badge/Mainpage-%E4%B8%BB%E9%A1%B5-0A66C2?logo=codementor&logoColor=%23003648&labelColor=%235AC4EE" alt="主页"/>
-  </a>
-</p>
+Email:  :email: [*kisechan_* **[at]** *outlook.com*](mailto:&#107;&#105;&#115;&#101;&#99;&#104;&#97;&#110;&#95;&#64;&#111;&#117;&#116;&#108;&#111;&#111;&#107;&#46;&#99;&#111;&#109;)
+
+---
 
 <div align="center">
   <img src="https://images.kisechan.space/github-head.png" style="width: 720px;" alt="pid: 120873581">
