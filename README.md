@@ -1,4 +1,4 @@
-<h1 align="center"><i>"Non est ad astra mollis e trris via."</i></h1>
+<h1 align="center"><i>"Non est ad astra mollis e terris via."</i></h1>
 
 Here is **Kisechan**, a junior majored in SE, retired CChOer.
 
