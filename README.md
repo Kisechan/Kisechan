@@ -9,8 +9,8 @@ Here is **Kisechan**, a junior majored in SE, retired CChOer.
 </div> -->
 
 <div align="center">
-  <img src="https://github-readme-stats.kisechan.space/api?username=Kisechan&hide=contribs,issues,prs&show=reviews,prs_merged,prs_merged_percentage&count_private=true&show_icons=true&line_height=28&hide_border=true">
-  <img src="https://github-readme-stats.kisechan.space/api/top-langs/?username=kisechan&hide=html,css&exclude_repo=kisechan.github.io&layout=compact&hide_border=true&langs_count=12&card_width=240">
+  <img src="https://github-readme-stats.kisechan.space/api?username=Kisechan&show=reviews,prs_merged,prs_merged_percentage&count_private=true&show_icons=true&line_height=39&hide_border=true">
+  <img src="https://github-readme-stats.kisechan.space/api/top-langs/?username=kisechan&hide=html,css&exclude_repo=Blog-Source,Status,kisechan.github.io,Algorithm,StatusLive-Self,cpp-assignments,Java-Assignments&hide_border=true&langs_count=8&card_width=300&stats_format=bytes&layout=donut-vertical">
 </div>
 
 ### Tools & Tech-Stacks :movie_camera:
