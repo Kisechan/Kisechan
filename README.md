@@ -29,11 +29,11 @@ Here is **Kisechan**, a junior majored in SE, retired CChOer.
 
 #### Frameworks and Platforms :closed_umbrella:
 
-[![](https://skill-icons.kisechan.space/icons?i=vue,vite,nodejs,electron,pytorch,anaconda,mysql,sqlite,redis&theme=light)](https://skill-icons.kisechan.space)
+[![](https://skill-icons.kisechan.space/icons?i=vue,vite,nodejs,npm,electron,nginx,pytorch,anaconda,mysql,sqlite,redis&theme=light)](https://skill-icons.kisechan.space)
 
 #### IDEs and OSs
 
-[![](https://skill-icons.kisechan.space/icons?i=vscode,,apple,ubuntu,windows&theme=light)](https://skill-icons.kisechan.space)
+[![](https://skill-icons.kisechan.space/icons?i=vscode,,apple,linux,windows&theme=light)](https://skill-icons.kisechan.space)
 
 ## Blog Posts :fire:
 
