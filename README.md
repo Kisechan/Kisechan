@@ -15,8 +15,6 @@ Here is **Kisechan**, a junior majored in SE, retired CChOer.
 
 ### Tools & Tech-Stacks :movie_camera:
 
-<div align="center"><img src="./profile-3d-contrib/profile-season-animate.svg"/></div>
-
 #### Markup Languages :pencil2:
 
 <!-- LaTeX, Typst and Markdown -->
