@@ -15,23 +15,23 @@ Here is **Kisechan**, a junior majored in SE, retired CChOer.
 
 ### Tools & Tech-Stacks :movie_camera:
 
-#### Markup Languages :pencil2:
+#### Frameworks & Toolchains :open_file_folder:
+
+[![](https://skill-icons.kisechan.space/icons?i=git,vue,vite,nodejs,npm,electron,nginx,pytorch,anaconda,mysql,sqlite,redis&theme=light)](https://skill-icons.kisechan.space)
+
+#### Document & Typesetting :pencil2:
 
 <!-- LaTeX, Typst and Markdown -->
 
-[![](https://skill-icons.kisechan.space/icons?i=typst,latex,md&theme=light)](https://skill-icons.kisechan.space)
+[![](https://skill-icons.kisechan.space/icons?i=typst,latex,md,html,css&theme=light)](https://skill-icons.kisechan.space)
 
-#### Programming Languages :card_index:
+#### Programming Languages :telescope:
 
 <!-- Programming Languages -->
 
-[![](https://skill-icons.kisechan.space/icons?i=c,cpp,py,go,rust,java,html,css,js,ts&theme=light)](https://skill-icons.kisechan.space)
+[![](https://skill-icons.kisechan.space/icons?i=c,cpp,py,go,rust,java,js,ts,bash&theme=light)](https://skill-icons.kisechan.space)
 
-#### Frameworks and Platforms :closed_umbrella:
-
-[![](https://skill-icons.kisechan.space/icons?i=vue,vite,nodejs,npm,electron,nginx,pytorch,anaconda,mysql,sqlite,redis&theme=light)](https://skill-icons.kisechan.space)
-
-#### IDEs and OSs
+#### IDEs and OSs :milky_way:
 
 [![](https://skill-icons.kisechan.space/icons?i=vscode,,apple,linux,windows&theme=light)](https://skill-icons.kisechan.space)
 
