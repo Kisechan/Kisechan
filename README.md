@@ -15,25 +15,27 @@ Here is **Kisechan**, a junior majored in SE, retired CChOer.
 
 ### Tools & Tech-Stacks :movie_camera:
 
-#### Frameworks & Toolchains :open_file_folder:
-
-[![](https://skill-icons.kisechan.space/icons?i=git,vue,vite,nodejs,npm,electron,nginx,pytorch,anaconda,mysql,sqlite,redis&theme=light)](https://skill-icons.kisechan.space)
-
-#### Document & Typesetting :pencil2:
-
-<!-- LaTeX, Typst and Markdown -->
-
-[![](https://skill-icons.kisechan.space/icons?i=typst,latex,md,html,css&theme=light)](https://skill-icons.kisechan.space)
-
 #### Programming Languages :telescope:
 
 <!-- Programming Languages -->
 
 [![](https://skill-icons.kisechan.space/icons?i=c,cpp,py,go,rust,java,js,ts,bash&theme=light)](https://skill-icons.kisechan.space)
 
-#### IDEs and OSs :milky_way:
+#### Toolchains & Frameworks :open_file_folder:
 
-[![](https://skill-icons.kisechan.space/icons?i=vscode,,apple,linux,windows&theme=light)](https://skill-icons.kisechan.space)
+[![](https://skill-icons.kisechan.space/icons?i=git,vue,vite,nodejs,npm,electron,qt,nginx,pytorch,anaconda,mysql,sqlite,redis&theme=light)](https://skill-icons.kisechan.space)
+
+#### Document & Typesetting :pencil2:
+
+<!-- LaTeX, Typst and Markdown -->
+
+[![](https://skill-icons.kisechan.space/icons?i=typst,latex,md,html,css,xml&theme=light)](https://skill-icons.kisechan.space)
+
+#### IDEs, Services & OSs :milky_way:
+
+[![](https://skill-icons.kisechan.space/icons?i=vscode,github,azure,cloudflare,vercel,workers,githubactions&theme=light)](https://skill-icons.kisechan.space)
+
+[![](https://skill-icons.kisechan.space/icons?i=apple,linux,windows&theme=light)](https://skill-icons.kisechan.space)
 
 ## Blog Posts :fire:
 
