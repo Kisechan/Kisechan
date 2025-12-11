@@ -41,11 +41,11 @@ Here is **Kisechan**, a junior majored in SE, retired CChOer.
 
 Here are my latest [blog](https://blog.kisechan.space/) posts:
 
-<!-- BLOG-POST-LIST:START --><li> 💎 <a href="https://blog.kisechan.space/2025/skill-icons/">在 Cloudflare Workers 部署 skill-icons</a> | 🗓 <b>2025-12-06</b> </li>
+<!-- BLOG-POST-LIST:START --><li> 💎 <a href="https://blog.kisechan.space/2025/notes-software-engineering-summary/">软件工程课程部分概念归纳</a> | 🗓 <b>2025-12-11</b> </li>
+<li> 🎀 <a href="https://blog.kisechan.space/2025/skill-icons/">在 Cloudflare Workers 部署 skill-icons</a> | 🗓 <b>2025-12-06</b> </li>
 <li> 🎀 <a href="https://blog.kisechan.space/2025/db-engine-3/">设计一个数据库引擎 &lpar;3&rpar; SQL 处理</a> | 🗓 <b>2025-11-26</b> </li>
-<li> 🎀 <a href="https://blog.kisechan.space/2025/notes-machine-learning/">机器学习 课程笔记</a> | 🗓 <b>2025-11-16</b> </li>
-<li> 🎈 <a href="https://blog.kisechan.space/2025/notes-design-pattern/">软件设计模式 课程笔记</a> | 🗓 <b>2025-11-15</b> </li>
-<li> 🎁 <a href="https://blog.kisechan.space/2025/db-engine-2/">设计一个数据库引擎 &lpar;2&rpar; 索引</a> | 🗓 <b>2025-11-12</b> </li>
+<li> 🎈 <a href="https://blog.kisechan.space/2025/notes-machine-learning/">机器学习 课程笔记</a> | 🗓 <b>2025-11-16</b> </li>
+<li> 🎁 <a href="https://blog.kisechan.space/2025/notes-design-pattern/">软件设计模式 课程笔记</a> | 🗓 <b>2025-11-15</b> </li>
 <!-- BLOG-POST-LIST:END -->
 
 ## Reach Me :loudspeaker:
