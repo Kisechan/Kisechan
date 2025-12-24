@@ -1,7 +1,8 @@
 <h1 align="center"><i>"Non est ad astra mollis e terris via."</i></h1>
 
 Here is **Kisechan**, a junior majored in SE, retired CChOer.
-- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) Gopher & ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) Rustacean.
+- ![](https://img.shields.io/badge/-Gopher-%2300ADD8?style=flat&logo=go&logoColor=white), ![](https://img.shields.io/badge/-Rustacean-%23B7410e?style=flat&logo=rust&logoColor=white
+) & ![](https://img.shields.io/badge/-Pythonista-%233776AB?style=flat&logo=python&logoColor=white).
 - Interested in Embodied Intelligence and Reinforcement Learning.
 - Curious about building full-stack applications.
 - ACGN fan.
