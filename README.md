@@ -1,11 +1,13 @@
 <h1 align="center"><i>"Non est ad astra mollis e terris via."</i></h1>
 
+<a href="https://www.pixiv.net/artworks/100191209"><img align="right" src="./assets/100191209.jpg" width="20%"><a/>
+
 Here is **Kisechan**, a junior majored in SE, retired CChOer.
-- ![](https://img.shields.io/badge/-Gopher-%2300ADD8?style=flat&logo=go&logoColor=white), ![](https://img.shields.io/badge/-Rustacean-%23B7410e?style=flat&logo=rust&logoColor=white
-) & ![](https://img.shields.io/badge/-Pythonista-%233776AB?style=flat&logo=python&logoColor=white).
+- [![](https://img.shields.io/badge/-Gopher-%2300ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/), [![](https://img.shields.io/badge/-Rustacean-%23B7410e?style=flat&logo=rust&logoColor=white
+)](https://rust-lang.org/) & [![](https://img.shields.io/badge/-Pythonista-%233776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/).
 - Interested in Embodied Intelligence and Reinforcement Learning.
-- Curious about building full-stack applications.
-- ACGN fan.
+- Curious about Building Full-stack Applications.
+- ACGN Fan.
 
 ## Programming :speech_balloon:
 
@@ -13,10 +15,10 @@ Here is **Kisechan**, a junior majored in SE, retired CChOer.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kisechan&theme=minimal">
 </div> -->
 
-<div align="center">
+<a href="https://github-readme-stats.kisechan.space/"><div align="center">
   <img src="https://github-readme-stats.kisechan.space/api?username=Kisechan&show=reviews,prs_merged,prs_merged_percentage&count_private=true&show_icons=true&line_height=39&hide_border=true">
   <img src="https://github-readme-stats.kisechan.space/api/top-langs/?username=kisechan&hide=html,css&exclude_repo=Blog-Source,Status,kisechan.github.io,Algorithm,StatusLive-Self,cpp-assignments,Java-Assignments&hide_border=true&langs_count=8&card_width=300&stats_format=bytes&layout=donut-vertical">
-</div>
+</div><a/>
 
 ### Tools & Tech-Stacks :movie_camera:
 
@@ -55,16 +57,12 @@ Here are my latest [blog](https://blog.kisechan.space/) posts:
 
 ## Reach Me :loudspeaker:
 
-Email:  
+**Email**
 - :email: [*kisechan_* **[at]** *outlook.com*](mailto:&#107;&#105;&#115;&#101;&#99;&#104;&#97;&#110;&#95;&#64;&#111;&#117;&#116;&#108;&#111;&#111;&#107;&#46;&#99;&#111;&#109;)
 - :email: [*hello* **[at]** *kisechan.space*](mailto:&#104;&#101;&#108;&#108;&#111;&#64;&#107;&#105;&#115;&#101;&#99;&#104;&#97;&#110;&#46;&#115;&#112;&#97;&#99;&#101;)
 
 ---
 
-<div align="center">
-  <img src="https://images.kisechan.space/github-head.png" style="width: 720px;" alt="pid: 120873581">
-</div>
-
-<div align="center">
+<a href="https://count.getloli.com/"><div align="center">
   <img src="https://count.getloli.com/@Kisechan?name=Kisechan&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" style="width: 640px;" alt="Kisechan" />
-</div>
+</div><a/>
