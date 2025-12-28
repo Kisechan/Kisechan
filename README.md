@@ -2,7 +2,7 @@
 
 <a href="https://www.pixiv.net/artworks/100191209"><img align="right" src="./assets/100191209.jpg" width="20%"><a/>
 
-Here is **Kisechan**, a junior majored in SE, retired CChOer.
+Here is **Kisechan**, a junior majoring in SE at Jilin University, as well as a retired CChOer.
 - [![](https://img.shields.io/badge/-Gopher-%2300ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/), [![](https://img.shields.io/badge/-Rustacean-%23B7410e?style=flat&logo=rust&logoColor=white
 )](https://rust-lang.org/) & [![](https://img.shields.io/badge/-Pythonista-%233776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/).
 - Interested in Embodied Intelligence and Reinforcement Learning.
