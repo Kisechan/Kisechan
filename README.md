@@ -25,13 +25,13 @@ Here is **Kisechan**, a junior majoring in SE at Jilin University, as well as a 
 
 <!-- LaTeX, Typst and Markdown -->
 
-![](https://go-skill-icons.vercel.app/api/icons?i=typst,latex,md,html,css,xml&theme=light&perline=9)
+![](https://go-skill-icons.vercel.app/api/icons?i=typst,latex,md,html,css,xml&theme=light)
 
 #### IDEs, Services & OSes :milky_way:
 
 ![](https://go-skill-icons.vercel.app/api/icons?i=apple,linux,windows,wsl&theme=light)
 
-![](https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,vim,github,azure,chrome,cloudflare,hexo,vercel,workers,githubactions&theme=light&perline=9)
+![](https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,vim,github,azure,chrome,cloudflare,hexo,vercel,workers,githubactions&theme=light)
 
 ## Programming :speech_balloon:
 
