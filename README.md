@@ -1,6 +1,6 @@
 <h1 align="center"><i>"Non est ad astra mollis e terris via."</i></h1>
 
-<a href="https://www.pixiv.net/artworks/100191209"><img align="right" src="./assets/100191209.jpg" width="25%"><a/>
+<a href="https://www.pixiv.net/artworks/100191209"><img align="right" src="./assets/100191209.jpg" width="30%"><a/>
 
 Here is **Kisechan**, a junior majoring in SE at Jilin University, as well as a retired CChOer.
 - [![](https://img.shields.io/badge/-Gopher-%2300ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/), [![](https://img.shields.io/badge/-Rustacean-%23B7410e?style=flat&logo=rust&logoColor=white
@@ -15,23 +15,23 @@ Here is **Kisechan**, a junior majoring in SE at Jilin University, as well as a 
 
 <!-- Programming Languages -->
 
-![](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,py,go,rust,java,js,ts,bash&theme=light&perline=11)
+![](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,py,go,rust,java,js,ts,bash&theme=light&perline=9)
 
 #### Toolchains & Frameworks :open_file_folder:
 
-![](https://go-skill-icons.vercel.app/api/icons?i=git,vue,vite,nodejs,npm,electron,qt,nginx,pytorch,anaconda,mysql,sqlite,redis&theme=light&perline=11)
+![](https://go-skill-icons.vercel.app/api/icons?i=git,vue,vite,nodejs,npm,electron,qt,nginx,pytorch,anaconda,mysql,sqlite,redis&theme=light&perline=9)
 
 #### Document & Typesetting :pencil2:
 
 <!-- LaTeX, Typst and Markdown -->
 
-![](https://go-skill-icons.vercel.app/api/icons?i=typst,latex,md,html,css,xml&theme=light&perline=11)
+![](https://go-skill-icons.vercel.app/api/icons?i=typst,latex,md,html,css,xml&theme=light&perline=9)
 
 #### IDEs, Services & OSes :milky_way:
 
 ![](https://go-skill-icons.vercel.app/api/icons?i=apple,linux,windows,wsl&theme=light)
 
-![](https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,vim,github,azure,chrome,cloudflare,hexo,vercel,workers,githubactions&theme=light&perline=11)
+![](https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,vim,github,azure,chrome,cloudflare,hexo,vercel,workers,githubactions&theme=light&perline=9)
 
 ## Programming :speech_balloon:
 
