@@ -1,13 +1,37 @@
 <h1 align="center"><i>"Non est ad astra mollis e terris via."</i></h1>
 
-<a href="https://www.pixiv.net/artworks/100191209"><img align="right" src="./assets/100191209.jpg" width="20%"><a/>
+<a href="https://www.pixiv.net/artworks/100191209"><img align="right" src="./assets/100191209.jpg" width="25%"><a/>
 
 Here is **Kisechan**, a junior majoring in SE at Jilin University, as well as a retired CChOer.
 - [![](https://img.shields.io/badge/-Gopher-%2300ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/), [![](https://img.shields.io/badge/-Rustacean-%23B7410e?style=flat&logo=rust&logoColor=white
 )](https://rust-lang.org/) & [![](https://img.shields.io/badge/-Pythonista-%233776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/).
 - Interested in Embodied Intelligence and Reinforcement Learning.
-- Curious about Building Full-stack Applications.
+- Curious about Building Full-Stack Applications.
 - ACGN Fan.
+
+### Tools & Tech-Stacks :movie_camera:
+
+#### Programming Languages :telescope:
+
+<!-- Programming Languages -->
+
+![](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,py,go,rust,java,js,ts,bash&theme=light&perline=11)
+
+#### Toolchains & Frameworks :open_file_folder:
+
+![](https://go-skill-icons.vercel.app/api/icons?i=git,vue,vite,nodejs,npm,electron,qt,nginx,pytorch,anaconda,mysql,sqlite,redis&theme=light&perline=11)
+
+#### Document & Typesetting :pencil2:
+
+<!-- LaTeX, Typst and Markdown -->
+
+![](https://go-skill-icons.vercel.app/api/icons?i=typst,latex,md,html,css,xml&theme=light&perline=11)
+
+#### IDEs, Services & OSes :milky_way:
+
+![](https://go-skill-icons.vercel.app/api/icons?i=apple,linux,windows,wsl&theme=light)
+
+![](https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,vim,github,azure,chrome,cloudflare,hexo,vercel,workers,githubactions&theme=light&perline=11)
 
 ## Programming :speech_balloon:
 
@@ -19,30 +43,6 @@ Here is **Kisechan**, a junior majoring in SE at Jilin University, as well as a 
   <img src="https://github-readme-stats.kisechan.space/api?username=Kisechan&show=reviews,prs_merged,prs_merged_percentage&count_private=true&show_icons=true&line_height=39&hide_border=true">
   <img src="https://github-readme-stats.kisechan.space/api/top-langs/?username=kisechan&hide=html,css&exclude_repo=Blog-Source,Status,kisechan.github.io,Algorithm,StatusLive-Self,cpp-assignments,Java-Assignments&hide_border=true&langs_count=8&card_width=300&stats_format=bytes&layout=donut-vertical">
 </div><a/>
-
-### Tools & Tech-Stacks :movie_camera:
-
-#### Programming Languages :telescope:
-
-<!-- Programming Languages -->
-
-[![](https://skill-icons.kisechan.space/icons?i=c,cpp,py,go,rust,java,js,ts,bash&theme=light)](https://skill-icons.kisechan.space)
-
-#### Toolchains & Frameworks :open_file_folder:
-
-[![](https://skill-icons.kisechan.space/icons?i=git,vue,vite,nodejs,npm,electron,qt,nginx,pytorch,anaconda,mysql,sqlite,redis&theme=light)](https://skill-icons.kisechan.space)
-
-#### Document & Typesetting :pencil2:
-
-<!-- LaTeX, Typst and Markdown -->
-
-[![](https://skill-icons.kisechan.space/icons?i=typst,latex,md,html,css,xml&theme=light)](https://skill-icons.kisechan.space)
-
-#### IDEs, Services & OSes :milky_way:
-
-[![](https://skill-icons.kisechan.space/icons?i=vscode,github,azure,cloudflare,vercel,workers,githubactions&theme=light)](https://skill-icons.kisechan.space)
-
-[![](https://skill-icons.kisechan.space/icons?i=apple,linux,windows&theme=light)](https://skill-icons.kisechan.space)
 
 ## Blog Posts :fire:
 
