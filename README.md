@@ -19,19 +19,19 @@ Here is **Kisechan**, a junior majoring in SE at Jilin University, as well as a 
 
 #### Toolchains & Frameworks :open_file_folder:
 
-![](https://go-skill-icons.vercel.app/api/icons?i=git,vue,vite,nodejs,npm,electron,qt,nginx,pytorch,anaconda,mysql,sqlite,redis&theme=light&perline=9)
+![](https://go-skill-icons.vercel.app/api/icons?i=git,vue,vite,elementplus,nodejs,npm,electron,qt,nginx,pytorch,anaconda,docker,mysql,sqlite,oracle,redis,mongodb,neo4j,hadoop&theme=light&perline=9)
 
 #### Document & Typesetting :pencil2:
 
 <!-- LaTeX, Typst and Markdown -->
 
-![](https://go-skill-icons.vercel.app/api/icons?i=typst,latex,md,html,css,xml&theme=light)
+![](https://go-skill-icons.vercel.app/api/icons?i=typst,latex,md,html,css,xml,json,regex&theme=light)
 
 #### IDEs, Services & OSes :milky_way:
 
-![](https://go-skill-icons.vercel.app/api/icons?i=apple,linux,windows,wsl&theme=light)
+![](https://go-skill-icons.vercel.app/api/icons?i=macos,linux,windows,wsl&theme=light)
 
-![](https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,vim,github,azure,chrome,cloudflare,hexo,vercel,workers,githubactions&theme=light)
+![](https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,vim,claude,githubcopilot,github,azure,chrome,cloudflare,hexo,vercel,workers,githubactions&theme=light)
 
 ## Programming :speech_balloon:
 
