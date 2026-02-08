@@ -25,7 +25,7 @@ Here is **Kisechan**, a junior majoring in SE at Jilin University, as well as a 
 
 <!-- LaTeX, Typst and Markdown -->
 
-![](https://go-skill-icons.vercel.app/api/icons?i=typst,latex,md,html,css,xml,json,regex&theme=light)
+![](https://go-skill-icons.vercel.app/api/icons?i=typst,latex,md,html,css,json,regex&theme=light)
 
 #### IDEs, Services & OSes :milky_way:
 
