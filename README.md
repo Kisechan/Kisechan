@@ -48,11 +48,11 @@ Here is **Kisechan**, a junior majoring in SE at Jilin University, as well as a 
 
 Here are my latest [blog](https://blog.kisechan.space/) posts:
 
-<!-- BLOG-POST-LIST:START --><li> 💎 <a href="https://blog.kisechan.space/2025/how-to-use-git/">Git 团队合作的简单使用教程</a> | 🗓 <b>2025-12-31</b> </li>
+<!-- BLOG-POST-LIST:START --><li> 💎 <a href="https://blog.kisechan.space/2026/nosql/">NoSQL 的学习使用和环境配置</a> | 🗓 <b>2026-02-11</b> </li>
+<li> 🎀 <a href="https://blog.kisechan.space/2025/how-to-use-git/">Git 团队合作的简单使用教程</a> | 🗓 <b>2025-12-31</b> </li>
 <li> 🎀 <a href="https://blog.kisechan.space/2025/notes-networks-summary/">计算机网络总结归纳</a> | 🗓 <b>2025-12-21</b> </li>
-<li> 🎀 <a href="https://blog.kisechan.space/2025/notes-software-engineering-summary/">软件工程课程部分内容归纳</a> | 🗓 <b>2025-12-11</b> </li>
-<li> 🎈 <a href="https://blog.kisechan.space/2025/skill-icons/">在 Cloudflare Workers 部署 skill-icons</a> | 🗓 <b>2025-12-06</b> </li>
-<li> 🎁 <a href="https://blog.kisechan.space/2025/db-engine-3/">设计一个数据库引擎 &lpar;3&rpar; SQL 处理</a> | 🗓 <b>2025-11-26</b> </li>
+<li> 🎈 <a href="https://blog.kisechan.space/2025/notes-software-engineering-summary/">软件工程课程部分内容归纳</a> | 🗓 <b>2025-12-11</b> </li>
+<li> 🎁 <a href="https://blog.kisechan.space/2025/skill-icons/">在 Cloudflare Workers 部署 skill-icons</a> | 🗓 <b>2025-12-06</b> </li>
 <!-- BLOG-POST-LIST:END -->
 
 ## Reach Me :loudspeaker:
