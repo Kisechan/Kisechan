@@ -48,11 +48,11 @@ Here is **Kisechan**, a junior majoring in SE at Jilin University, as well as a 
 
 Here are my latest [blog](https://blog.kisechan.space/) posts:
 
-<!-- BLOG-POST-LIST:START --><li> 💎 <a href="https://blog.kisechan.space/2026/kashi-emojilize/">给你的歌词加上 Emoji！</a> | 🗓 <b>2026-02-12</b> </li>
+<!-- BLOG-POST-LIST:START --><li> 💎 <a href="https://blog.kisechan.space/2026/Apuntes-de-espan%CC%83ol-semana-1/">Apuntes de español, semana 1</a> | 🗓 <b>2026-03-16</b> </li>
+<li> 🎀 <a href="https://blog.kisechan.space/2026/kashi-emojilize/">给你的歌词加上 Emoji！</a> | 🗓 <b>2026-02-12</b> </li>
 <li> 🎀 <a href="https://blog.kisechan.space/2026/nosql/">NoSQL 的学习使用和环境配置</a> | 🗓 <b>2026-02-11</b> </li>
-<li> 🎀 <a href="https://blog.kisechan.space/2025/how-to-use-git/">Git 团队合作的简单使用教程</a> | 🗓 <b>2025-12-31</b> </li>
-<li> 🎈 <a href="https://blog.kisechan.space/2025/notes-networks-summary/">计算机网络总结归纳</a> | 🗓 <b>2025-12-21</b> </li>
-<li> 🎁 <a href="https://blog.kisechan.space/2025/notes-software-engineering-summary/">软件工程课程部分内容归纳</a> | 🗓 <b>2025-12-11</b> </li>
+<li> 🎈 <a href="https://blog.kisechan.space/2025/how-to-use-git/">Git 团队合作的简单使用教程</a> | 🗓 <b>2025-12-31</b> </li>
+<li> 🎁 <a href="https://blog.kisechan.space/2025/notes-networks-summary/">计算机网络总结归纳</a> | 🗓 <b>2025-12-21</b> </li>
 <!-- BLOG-POST-LIST:END -->
 
 ## Reach Me :loudspeaker:
