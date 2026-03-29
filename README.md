@@ -48,11 +48,11 @@ Here is **Kisechan**, a junior majoring in SE at Jilin University, as well as a 
 
 Here are my latest [blog](https://blog.kisechan.space/) posts:
 
-<!-- BLOG-POST-LIST:START --><li> 💎 <a href="https://blog.kisechan.space/2026/robotics/">机器人学入门笔记</a> | 🗓 <b>2026-03-26</b> </li>
+<!-- BLOG-POST-LIST:START --><li> 💎 <a href="https://blog.kisechan.space/2026/Apuntes-de-espanol-semana-3/">Apuntes de español, semana 3</a> | 🗓 <b>2026-03-29</b> </li>
+<li> 🎀 <a href="https://blog.kisechan.space/2026/robotics/">机器人学入门笔记</a> | 🗓 <b>2026-03-26</b> </li>
 <li> 🎀 <a href="https://blog.kisechan.space/2026/Apuntes-de-espanol-semana-2/">Apuntes de español, semana 2</a> | 🗓 <b>2026-03-19</b> </li>
-<li> 🎀 <a href="https://blog.kisechan.space/2026/Apuntes-de-espan%CC%83ol-semana-1/">Apuntes de español, semana 1</a> | 🗓 <b>2026-03-16</b> </li>
-<li> 🎈 <a href="https://blog.kisechan.space/2026/kashi-emojilize/">给你的歌词加上 Emoji！</a> | 🗓 <b>2026-02-12</b> </li>
-<li> 🎁 <a href="https://blog.kisechan.space/2026/nosql/">NoSQL 的学习使用和环境配置</a> | 🗓 <b>2026-02-11</b> </li>
+<li> 🎈 <a href="https://blog.kisechan.space/2026/Apuntes-de-espan%CC%83ol-semana-1/">Apuntes de español, semana 1</a> | 🗓 <b>2026-03-16</b> </li>
+<li> 🎁 <a href="https://blog.kisechan.space/2026/kashi-emojilize/">给你的歌词加上 Emoji！</a> | 🗓 <b>2026-02-12</b> </li>
 <!-- BLOG-POST-LIST:END -->
 
 ## Reach Me :loudspeaker:
