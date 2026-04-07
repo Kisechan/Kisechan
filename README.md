@@ -1,13 +1,19 @@
 <h1 align="center"><i>"Non est ad astra mollis e terris via."</i></h1>
 
-<a href="https://www.pixiv.net/artworks/100191209"><img align="right" src="./assets/100191209.jpg" width="30%"><a/>
-
 Here is **Kisechan**, a junior majoring in SE at Jilin University, as well as a retired CChOer.
-- [![](https://img.shields.io/badge/-Gopher-%2300ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/), [![](https://img.shields.io/badge/-Rustacean-%23B7410e?style=flat&logo=rust&logoColor=white
-)](https://rust-lang.org/) & [![](https://img.shields.io/badge/-Pythonista-%233776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/).
 - Interested in Embodied Intelligence and Reinforcement Learning.
 - Curious about Building Full-Stack Applications.
 - ACGN Fan.
+
+<div align="center">
+  <a href="https://go.dev/"><img align="right" src="https://img.shields.io/badge/-Gopher-%2300ADD8?style=flat&logo=go&logoColor=white"></a>
+  <a href="https://rust-lang.org/"><img align="right" src="https://img.shields.io/badge/-Rustacean-%23B7410e?style=flat&logo=rust&logoColor=white"></a>
+  <a href="https://www.python.org/"><img align="right" src="https://img.shields.io/badge/-Pythonista-%233776AB?style=flat&logo=python&logoColor=white"></a>
+</div>
+
+<details>
+
+<summary>Click to Show Tech-Stacks</summary>
 
 ### Tools & Tech-Stacks :movie_camera:
 
@@ -33,6 +39,8 @@ Here is **Kisechan**, a junior majoring in SE at Jilin University, as well as a 
 
 ![](https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,vim,claude,githubcopilot,github,azure,chrome,cloudflare,hexo,vercel,workers,githubactions&theme=light)
 
+</details>
+
 ## Programming :speech_balloon:
 
 <!-- <div align="center">
@@ -40,9 +48,9 @@ Here is **Kisechan**, a junior majoring in SE at Jilin University, as well as a 
 </div> -->
 
 <a href="https://github-readme-stats.kisechan.space/"><div align="center">
-  <img src="https://github-readme-stats.kisechan.space/api?username=Kisechan&show=reviews,prs_merged,prs_merged_percentage&count_private=true&show_icons=true&line_height=39&hide_border=true">
-  <img src="https://github-readme-stats.kisechan.space/api/top-langs/?username=kisechan&hide=html,css&exclude_repo=Blog-Source,Status,kisechan.github.io,Algorithm,StatusLive-Self,cpp-assignments,Java-Assignments,ordering-system,takeout-ordering-system&hide_border=true&langs_count=8&card_width=300&stats_format=bytes&layout=donut-vertical">
-</div><a/>
+  <img src="https://github-readme-stats.kisechan.space/api?username=Kisechan&show=reviews,prs_merged,prs_merged_percentage&count_private=true&show_icons=true&line_height=28&hide_border=true">
+  <img src="https://github-readme-stats.kisechan.space/api/top-langs/?username=kisechan&hide=html,css&exclude_repo=Blog-Source,Status,kisechan.github.io,Algorithm,StatusLive-Self,cpp-assignments,Java-Assignments,ordering-system,takeout-ordering-system&hide_border=true&langs_count=8&card_width=200&stats_format=bytes&layout=donut">
+</div></a>
 
 ## Blog Posts :fire:
 
