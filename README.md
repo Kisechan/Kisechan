@@ -1,15 +1,13 @@
 <h1 align="center"><i>"Non est ad astra mollis e terris via."</i></h1>
 
-Here is **Kisechan**, a junior majoring in SE at Jilin University, as well as a retired CChOer.
-- Interested in Embodied Intelligence and Reinforcement Learning.
-- Curious about Building Full-Stack Applications.
-- ACGN Fan.
-
-<div align="center">
-  <a href="https://go.dev/"><img align="right" src="https://img.shields.io/badge/-Gopher-%2300ADD8?style=flat&logo=go&logoColor=white"></a>
-  <a href="https://rust-lang.org/"><img align="right" src="https://img.shields.io/badge/-Rustacean-%23B7410e?style=flat&logo=rust&logoColor=white"></a>
-  <a href="https://www.python.org/"><img align="right" src="https://img.shields.io/badge/-Pythonista-%233776AB?style=flat&logo=python&logoColor=white"></a>
-</div>
+Here is **Kisechan**, a junior majoring in SE at *Jilin University*.
+- Interested in *Embodied Intelligence* and Working on *VLA*.
+- Love to Build Interesting Applications with [![](https://img.shields.io/badge/-Golang-%2300ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/), [![](https://img.shields.io/badge/-Rust-%23B7410e?style=flat&logo=rust&logoColor=white
+)](https://rust-lang.org/), [![](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat&logo=typescript&logoColor=white
+)](https://www.typescriptlang.org/) & [![](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) and Write with [![](https://img.shields.io/badge/-Typst-%23239DAD?style=flat&logo=typst&logoColor=white
+)](https://typst.app/).
+- Fan of *Vocaloid* & *Touhou*. Enthusiast of *Linguistics* & *Astronomy*.
+- CChOer from 2020 to 2022.
 
 <details>
 
