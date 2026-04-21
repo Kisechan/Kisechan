@@ -67,6 +67,9 @@ Here are my latest [blog](https://blog.kisechan.space/) posts:
 - :email: [*kisechan_* **[at]** *outlook.com*](mailto:&#107;&#105;&#115;&#101;&#99;&#104;&#97;&#110;&#95;&#64;&#111;&#117;&#116;&#108;&#111;&#111;&#107;&#46;&#99;&#111;&#109;)
 - :email: [*hello* **[at]** *kisechan.space*](mailto:&#104;&#101;&#108;&#108;&#111;&#64;&#107;&#105;&#115;&#101;&#99;&#104;&#97;&#110;&#46;&#115;&#112;&#97;&#99;&#101;)
 
+**Social Media**
+- Zhihu: [@kisechan](https://www.zhihu.com/people/kisechan)
+
 ---
 
 <a href="https://count.getloli.com/"><div align="center">
