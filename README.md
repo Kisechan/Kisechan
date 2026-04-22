@@ -46,7 +46,7 @@ Here is **Kisechan**, a junior majoring in SE at *Jilin University*.
 </div> -->
 
 <a href="https://github-readme-stats.kisechan.space/"><div align="center">
-  <img src="https://github-readme-stats.kisechan.space/api?username=Kisechan&show=reviews,prs_merged,prs_merged_percentage&count_private=true&show_icons=true&line_height=28&hide_border=true">
+  <img src="https://github-readme-stats.kisechan.space/api?username=Kisechan&show=reviews&count_private=true&show_icons=true&line_height=47&hide_border=true">
   <img src="https://github-readme-stats.kisechan.space/api/top-langs/?username=kisechan&hide=html,css&exclude_repo=Blog-Source,Status,kisechan.github.io,Algorithm,StatusLive-Self,cpp-assignments,Java-Assignments,ordering-system,takeout-ordering-system&hide_border=true&langs_count=8&card_width=200&stats_format=bytes&layout=donut">
 </div></a>
 
