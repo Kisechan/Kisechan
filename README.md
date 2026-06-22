@@ -2,7 +2,7 @@
 
 Hello! Here is **Kisechan**, a junior majoring in Software Engineering at Jilin University.
 - Interested in Embodied Intelligence.
-- Love to Build Interesting Applications with [![](https://img.shields.io/badge/-Golang-%2300ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/), [![](https://img.shields.io/badge/-Rust-%23B7410e?style=flat&logo=rust&logoColor=white
+- Loving to Build Interesting Applications with [![](https://img.shields.io/badge/-Golang-%2300ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/), [![](https://img.shields.io/badge/-Rust-%23B7410e?style=flat&logo=rust&logoColor=white
 )](https://rust-lang.org/), [![](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat&logo=typescript&logoColor=white
 )](https://www.typescriptlang.org/) & [![](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) and Write with [![](https://img.shields.io/badge/-Typst-%23239DAD?style=flat&logo=typst&logoColor=white
 )](https://typst.app/).
@@ -64,12 +64,15 @@ Here are my latest [blog](https://blog.kisechan.space/) posts:
 ## Reach Me :loudspeaker:
 
 **Email**
+
+Feel free to contact me via email:
+
 - :email: [*kisechan_* **[at]** *outlook.com*](mailto:&#107;&#105;&#115;&#101;&#99;&#104;&#97;&#110;&#95;&#64;&#111;&#117;&#116;&#108;&#111;&#111;&#107;&#46;&#99;&#111;&#109;)
 - :email: [*hello* **[at]** *kisechan.space*](mailto:&#104;&#101;&#108;&#108;&#111;&#64;&#107;&#105;&#115;&#101;&#99;&#104;&#97;&#110;&#46;&#115;&#112;&#97;&#99;&#101;)
 
 **Social Media**
 - Zhihu: [@kisechan](https://www.zhihu.com/people/kisechan)
-<!-- - Twitter: [@Kiseplatinyl](https://x.com/Kiseplatinyl) -->
+- Twitter: [@Kiseplatinyl](https://x.com/Kiseplatinyl)
 
 ---
 
