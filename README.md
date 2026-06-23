@@ -54,11 +54,11 @@ Hello! Here is **Kisechan**, a junior majoring in Software Engineering at Jilin 
 
 Here are my latest [blog](https://blog.kisechan.space/) posts:
 
-<!-- BLOG-POST-LIST:START --><li> 💎 <a href="https://blog.kisechan.space/2026/in-my-depressed-days/">我消沉的两个月里</a> | 🗓 <b>2026-06-19</b> </li>
+<!-- BLOG-POST-LIST:START --><li> 💎 <a href="https://blog.kisechan.space/2026/notes-compiler-solutions/">编译原理题型总结笔记</a> | 🗓 <b>2026-06-23</b> </li>
+<li> 🎀 <a href="https://blog.kisechan.space/2026/in-my-depressed-days/">我消沉的两个月里</a> | 🗓 <b>2026-06-19</b> </li>
 <li> 🎀 <a href="https://blog.kisechan.space/2026/notes-compilers/">编译原理课程笔记</a> | 🗓 <b>2026-06-17</b> </li>
-<li> 🎀 <a href="https://blog.kisechan.space/2026/experiences-with-taking-psychiatric-medications/">一些精神药物的服用体验</a> | 🗓 <b>2026-06-16</b> </li>
-<li> 🎈 <a href="https://blog.kisechan.space/2026/catfish/">想要成为鱼的猫</a> | 🗓 <b>2026-06-08</b> </li>
-<li> 🎁 <a href="https://blog.kisechan.space/2026/travelogue-hongkong/">香港游记</a> | 🗓 <b>2026-05-23</b> </li>
+<li> 🎈 <a href="https://blog.kisechan.space/2026/experiences-with-taking-psychiatric-medications/">一些精神药物的服用体验</a> | 🗓 <b>2026-06-16</b> </li>
+<li> 🎁 <a href="https://blog.kisechan.space/2026/catfish/">想要成为鱼的猫</a> | 🗓 <b>2026-06-08</b> </li>
 <!-- BLOG-POST-LIST:END -->
 
 ## Reach Me :loudspeaker:
