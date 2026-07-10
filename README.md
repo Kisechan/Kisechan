@@ -65,9 +65,7 @@ Here are my latest [blog](https://blog.kisechan.space/) posts:
 
 **Email**
 
-Feel free to contact me via email:
-
-- :email: [*kisechan_* **[at]** *outlook.com*](mailto:&#107;&#105;&#115;&#101;&#99;&#104;&#97;&#110;&#95;&#64;&#111;&#117;&#116;&#108;&#111;&#111;&#107;&#46;&#99;&#111;&#109;)
+Feel free to contact me via email: [*kisechan_* **[at]** *outlook.com*](mailto:&#107;&#105;&#115;&#101;&#99;&#104;&#97;&#110;&#95;&#64;&#111;&#117;&#116;&#108;&#111;&#111;&#107;&#46;&#99;&#111;&#109;)
 
 **Social Media**
 - Zhihu: [@kisechan](https://www.zhihu.com/people/kisechan)
