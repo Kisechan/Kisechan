@@ -54,11 +54,11 @@ Hello! Here is **Kisechan**, a junior majoring in Software Engineering at Jilin 
 
 Here are my latest [blog](https://blog.kisechan.space/) posts:
 
-<!-- BLOG-POST-LIST:START --><li> 💎 <a href="https://blog.kisechan.space/2026/server-agent-workflow/">在服务器上比较优雅地使用 Agent</a> | 🗓 <b>2026-07-22</b> </li>
+<!-- BLOG-POST-LIST:START --><li> 💎 <a href="https://blog.kisechan.space/2026/rvc-ai-conversion/">使用 RVC 制作 AI 翻唱</a> | 🗓 <b>2026-08-03</b> </li>
+<li> 🎀 <a href="https://blog.kisechan.space/2026/server-agent-workflow/">在服务器上比较优雅地使用 Agent</a> | 🗓 <b>2026-07-22</b> </li>
 <li> 🎀 <a href="https://blog.kisechan.space/2026/gmr-omniretarget/">GMR 和 OmniRetarget</a> | 🗓 <b>2026-06-28</b> </li>
-<li> 🎀 <a href="https://blog.kisechan.space/2026/notes-compiler-solutions/">编译原理题型总结笔记</a> | 🗓 <b>2026-06-23</b> </li>
-<li> 🎈 <a href="https://blog.kisechan.space/2026/in-my-depressed-days/">我消沉的两个月里</a> | 🗓 <b>2026-06-19</b> </li>
-<li> 🎁 <a href="https://blog.kisechan.space/2026/notes-compilers/">编译原理课程笔记</a> | 🗓 <b>2026-06-17</b> </li>
+<li> 🎈 <a href="https://blog.kisechan.space/2026/notes-compiler-solutions/">编译原理题型总结笔记</a> | 🗓 <b>2026-06-23</b> </li>
+<li> 🎁 <a href="https://blog.kisechan.space/2026/in-my-depressed-days/">我消沉的两个月里</a> | 🗓 <b>2026-06-19</b> </li>
 <!-- BLOG-POST-LIST:END -->
 
 ## Reach Me :loudspeaker:
