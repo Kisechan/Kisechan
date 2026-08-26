@@ -54,11 +54,11 @@ Hello! Here is **Kisechan**, a junior majoring in Software Engineering at Jilin 
 
 Here are my latest [blog](https://blog.kisechan.space/) posts:
 
-<!-- BLOG-POST-LIST:START --><li> 💎 <a href="https://blog.kisechan.space/2026/depressive/">我面对抑郁状态的一些可能的理想解法</a> | 🗓 <b>2026-08-20</b> </li>
+<!-- BLOG-POST-LIST:START --><li> 💎 <a href="https://blog.kisechan.space/2026/esim/">eSIM 折腾记录</a> | 🗓 <b>2026-08-25</b> </li>
+<li> 🎀 <a href="https://blog.kisechan.space/2026/depressive/">我面对抑郁状态的一些可能的理想解法</a> | 🗓 <b>2026-08-20</b> </li>
 <li> 🎀 <a href="https://blog.kisechan.space/2026/travelogue-jiangyin-wuxi-hangzhou/">在无锡和杭州的愉快日子</a> | 🗓 <b>2026-08-15</b> </li>
-<li> 🎀 <a href="https://blog.kisechan.space/2026/rvc-ai-conversion/">使用 RVC 制作 AI 翻唱</a> | 🗓 <b>2026-08-03</b> </li>
-<li> 🎈 <a href="https://blog.kisechan.space/2026/server-agent-workflow/">在服务器上比较优雅地使用 Agent</a> | 🗓 <b>2026-07-22</b> </li>
-<li> 🎁 <a href="https://blog.kisechan.space/2026/gmr-omniretarget/">GMR 和 OmniRetarget</a> | 🗓 <b>2026-06-28</b> </li>
+<li> 🎈 <a href="https://blog.kisechan.space/2026/rvc-ai-conversion/">使用 RVC 制作 AI 翻唱</a> | 🗓 <b>2026-08-03</b> </li>
+<li> 🎁 <a href="https://blog.kisechan.space/2026/server-agent-workflow/">在服务器上比较优雅地使用 Agent</a> | 🗓 <b>2026-07-22</b> </li>
 <!-- BLOG-POST-LIST:END -->
 
 ## Reach Me :loudspeaker:
