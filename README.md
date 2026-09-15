@@ -54,11 +54,11 @@ Hello! Here is **Kisechan**, a junior majoring in Software Engineering at Jilin 
 
 Here are my latest [blog](https://blog.kisechan.space/) posts:
 
-<!-- BLOG-POST-LIST:START --><li> 💎 <a href="https://blog.kisechan.space/2026/zed/">我的简易 Zed 配置和使用体验</a> | 🗓 <b>2026-09-12</b> </li>
+<!-- BLOG-POST-LIST:START --><li> 💎 <a href="https://blog.kisechan.space/2026/algorithm-rehabilitation/">算法题复健和推免机试记录</a> | 🗓 <b>2026-09-15</b> </li>
+<li> 🎀 <a href="https://blog.kisechan.space/2026/zed/">我的简易 Zed 配置和使用体验</a> | 🗓 <b>2026-09-12</b> </li>
 <li> 🎀 <a href="https://blog.kisechan.space/2026/esim/">eSIM 折腾记录</a> | 🗓 <b>2026-08-25</b> </li>
-<li> 🎀 <a href="https://blog.kisechan.space/2026/depressive/">我面对抑郁状态的一些可能的理想解法</a> | 🗓 <b>2026-08-20</b> </li>
-<li> 🎈 <a href="https://blog.kisechan.space/2026/travelogue-jiangyin-wuxi-hangzhou/">在无锡和杭州的愉快日子</a> | 🗓 <b>2026-08-15</b> </li>
-<li> 🎁 <a href="https://blog.kisechan.space/2026/rvc-ai-conversion/">使用 RVC 制作 AI 翻唱</a> | 🗓 <b>2026-08-03</b> </li>
+<li> 🎈 <a href="https://blog.kisechan.space/2026/depressive/">我面对抑郁状态的一些可能的理想解法</a> | 🗓 <b>2026-08-20</b> </li>
+<li> 🎁 <a href="https://blog.kisechan.space/2026/travelogue-jiangyin-wuxi-hangzhou/">在无锡和杭州的愉快日子</a> | 🗓 <b>2026-08-15</b> </li>
 <!-- BLOG-POST-LIST:END -->
 
 ## Reach Me :loudspeaker:
