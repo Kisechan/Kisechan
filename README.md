@@ -1,13 +1,16 @@
 <h1 align="center"><i>"Non est ad astra mollis e terris via."</i></h1>
 
-Hello! Here is **Kisechan**, a junior majoring in Software Engineering at Jilin University.
+Hello, here is **Kisechan**! <img src="assets/image.png" style="width: 300px;" align="right"/>
+- Undergraduate \'23 @ College of Software of Jilin University, Excellent Engineers Program.
 - Interested in Embodied Intelligence.
 - Loving to Build Interesting Applications with [![](https://img.shields.io/badge/-Golang-%2300ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/), [![](https://img.shields.io/badge/-Rust-%23B7410e?style=flat&logo=rust&logoColor=white
 )](https://rust-lang.org/), [![](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat&logo=typescript&logoColor=white
 )](https://www.typescriptlang.org/) & [![](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) and Write with [![](https://img.shields.io/badge/-Typst-%23239DAD?style=flat&logo=typst&logoColor=white
 )](https://typst.app/).
-- Fan of Vocaloid & Touhou. Enthusiast of Linguistics & Astronomy.
+- Fan of Vocaloid, J-Pop and Touhou.
+- Enthusiast of Linguistics & Astronomy.
 - CChOer from 2020 to 2022.
+- Learn More from my [Blog](https://blog.kisechan.space/).
 
 <details>
 
@@ -63,9 +66,8 @@ Here are my latest [blog](https://blog.kisechan.space/) posts:
 
 ## Reach Me :loudspeaker:
 
-**Email**
-
-Feel free to contact me via email: [*kisechan_* **[at]** *outlook.com*](mailto:&#107;&#105;&#115;&#101;&#99;&#104;&#97;&#110;&#95;&#64;&#111;&#117;&#116;&#108;&#111;&#111;&#107;&#46;&#99;&#111;&#109;)
+- Email: [*kisechan_* **[at]** *outlook.com*](mailto:&#107;&#105;&#115;&#101;&#99;&#104;&#97;&#110;&#95;&#64;&#111;&#117;&#116;&#108;&#111;&#111;&#107;&#46;&#99;&#111;&#109;)
+- Telegram: [t.me/kiseplatinyl](https://t.me/kiseplatinyl)
 
 **Social Media**
 - Zhihu: [@kisechan](https://www.zhihu.com/people/kisechan)
