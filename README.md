@@ -1,9 +1,9 @@
 <h1 align="center"><i>"Non est ad astra mollis e terris via."</i></h1>
 
-Hello, here is **Kisechan**! <img src="assets/image.png" style="width: 300px;" align="right"/>
+Hello, here is **Kisechan**! <img src="assets/image.png" style="width: 280px;" align="right"/>
 - Undergraduate \'23 @ College of Software of Jilin University, Excellent Engineers Program.
 - Interested in Embodied Intelligence.
-- Loving to Build Interesting Applications with [![](https://img.shields.io/badge/-Golang-%2300ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/), [![](https://img.shields.io/badge/-Rust-%23B7410e?style=flat&logo=rust&logoColor=white
+- Loving to Build Interesting Applications with [![](https://img.shields.io/badge/-Go-%2300ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/), [![](https://img.shields.io/badge/-Rust-%23B7410e?style=flat&logo=rust&logoColor=white
 )](https://rust-lang.org/), [![](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat&logo=typescript&logoColor=white
 )](https://www.typescriptlang.org/) & [![](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) and Write with [![](https://img.shields.io/badge/-Typst-%23239DAD?style=flat&logo=typst&logoColor=white
 )](https://typst.app/).
