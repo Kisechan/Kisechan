@@ -66,7 +66,7 @@ Here are my latest [blog](https://blog.kisechan.space/) posts:
 
 ## Reach Me :loudspeaker:
 
-- Email: [*kisechan_* **[at]** *outlook.com*](mailto:&#107;&#105;&#115;&#101;&#99;&#104;&#97;&#110;&#95;&#64;&#111;&#117;&#116;&#108;&#111;&#111;&#107;&#46;&#99;&#111;&#109;)
+- Email: [kisechan_[at]outlook.com](mailto:&#107;&#105;&#115;&#101;&#99;&#104;&#97;&#110;&#95;&#64;&#111;&#117;&#116;&#108;&#111;&#111;&#107;&#46;&#99;&#111;&#109;)
 - Telegram: [t.me/kiseplatinyl](https://t.me/kiseplatinyl)
 
 **Social Media**
