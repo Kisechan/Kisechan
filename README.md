@@ -2,6 +2,7 @@
 
 Hello, here is **Kisechan**! <img src="assets/image.png" style="width: 280px;" align="right"/>
 - Undergraduate \'23 @ College of Software of Jilin University, Excellent Engineers Program.
+- Incoming M. Eng. @ SAI, Shanghai Jiao Tong University.
 - Interested in Embodied Intelligence.
 - Loving to Build Interesting Applications with [![](https://img.shields.io/badge/-Go-%2300ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/), [![](https://img.shields.io/badge/-Rust-%23B7410e?style=flat&logo=rust&logoColor=white
 )](https://rust-lang.org/), [![](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat&logo=typescript&logoColor=white
