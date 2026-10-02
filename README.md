@@ -58,11 +58,11 @@ Hello, here is **Kisechan**! <img src="assets/image.png" style="width: 260px;" a
 
 Here are my latest [blog](https://blog.kisechan.space/) posts:
 
-<!-- BLOG-POST-LIST:START --><li> 💎 <a href="https://blog.kisechan.space/2026/algorithm-rehabilitation/">算法题复健和推免机试记录</a> | 🗓 <b>2026-09-15</b> </li>
+<!-- BLOG-POST-LIST:START --><li> 💎 <a href="https://blog.kisechan.space/2026/games-for-mac/">用 Wine 在 Mac 上玩一些老 galgame 的方法</a> | 🗓 <b>2026-10-01</b> </li>
+<li> 🎀 <a href="https://blog.kisechan.space/2026/algorithm-rehabilitation/">算法题复健和推免机试记录</a> | 🗓 <b>2026-09-15</b> </li>
 <li> 🎀 <a href="https://blog.kisechan.space/2026/zed/">我的简易 Zed 配置和使用体验</a> | 🗓 <b>2026-09-12</b> </li>
-<li> 🎀 <a href="https://blog.kisechan.space/2026/esim/">eSIM 折腾记录</a> | 🗓 <b>2026-08-25</b> </li>
-<li> 🎈 <a href="https://blog.kisechan.space/2026/depressive/">我面对抑郁状态的一些可能的理想解法</a> | 🗓 <b>2026-08-20</b> </li>
-<li> 🎁 <a href="https://blog.kisechan.space/2026/travelogue-jiangyin-wuxi-hangzhou/">在无锡和杭州的愉快日子</a> | 🗓 <b>2026-08-15</b> </li>
+<li> 🎈 <a href="https://blog.kisechan.space/2026/esim/">eSIM 折腾记录</a> | 🗓 <b>2026-08-25</b> </li>
+<li> 🎁 <a href="https://blog.kisechan.space/2026/depressive/">我面对抑郁状态的一些可能的理想解法</a> | 🗓 <b>2026-08-20</b> </li>
 <!-- BLOG-POST-LIST:END -->
 
 ## Reach Me :loudspeaker:
