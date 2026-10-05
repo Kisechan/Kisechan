@@ -1,17 +1,17 @@
-<h1 align="center"><i>"Non est ad astra mollis e terris via."</i></h1>
+<h1 align="center"><i>"Non est ad astra mollis e terris via." </i>🚀</h1>
 
-Hello, here is **Kisechan**! <img src="assets/image.png" style="width: 260px;" align="right"/>
+Hello, here is **Kisechan**! 
 - Undergraduate \'27 @ CSW, Jilin University, Excellent Engineers Program.
 - Incoming M. Eng. @ SAI, Shanghai Jiao Tong University.
-- Interested in Embodied Intelligence and Multimodal Learning.
-- Loving to Build Interesting Applications with [![](https://img.shields.io/badge/-Go-%2300ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/), [![](https://img.shields.io/badge/-Rust-%23B7410e?style=flat&logo=rust&logoColor=white
+- Interested in 🤖 embodied intelligence and 👀 multimodal learning.
+- Loving to build interesting applications with [![](https://img.shields.io/badge/-Go-%2300ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/), [![](https://img.shields.io/badge/-Rust-%23B7410e?style=flat&logo=rust&logoColor=white
 )](https://rust-lang.org/), [![](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat&logo=typescript&logoColor=white
 )](https://www.typescriptlang.org/) & [![](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) and Write with [![](https://img.shields.io/badge/-Typst-%23239DAD?style=flat&logo=typst&logoColor=white
 )](https://typst.app/).
-- Fan of Vocaloid, J-Pop and Touhou.
-- Enthusiast of Linguistics & Astronomy.
-- CChOer from 2020 to 2022.
-- Learn More from my [Blog](https://blog.kisechan.space/).
+- Fan of 🎤 vocaloid, 🎸🎵 J-Pop and ⛩️ Touhou.
+- Enthusiast of 🌍 linguistics, 🛤️ railtransits & 🔭🪐 astronomy.
+- 🧪 CChOer from 2020 to 2022.
+- Learn more from [🔗 my blog](https://blog.kisechan.space/) and [📰 Zhihu](https://www.zhihu.com/people/kisechan).
 
 <details>
 
