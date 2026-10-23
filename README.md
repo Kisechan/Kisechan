@@ -58,11 +58,11 @@ Hello, here is **Kisechan**!
 
 Here are my latest [blog](https://blog.kisechan.space/) posts:
 
-<!-- BLOG-POST-LIST:START --><li> 💎 <a href="https://blog.kisechan.space/2026/for-new-myself/">写给新的日子中，失败的我</a> | 🗓 <b>2026-10-08</b> </li>
+<!-- BLOG-POST-LIST:START --><li> 💎 <a href="https://blog.kisechan.space/2026/web-for-agents/">Agent 时代一些有意思的 Web 小惯例</a> | 🗓 <b>2026-10-23</b> </li>
+<li> 🎀 <a href="https://blog.kisechan.space/2026/for-new-myself/">写给新的日子中，失败的我</a> | 🗓 <b>2026-10-08</b> </li>
 <li> 🎀 <a href="https://blog.kisechan.space/2026/games-for-mac/">用 Wine 在 Mac 上玩一些老 galgame 的方法</a> | 🗓 <b>2026-10-01</b> </li>
-<li> 🎀 <a href="https://blog.kisechan.space/2026/algorithm-rehabilitation/">算法题复健和推免机试记录</a> | 🗓 <b>2026-09-15</b> </li>
-<li> 🎈 <a href="https://blog.kisechan.space/2026/zed/">我的简易 Zed 配置和使用体验</a> | 🗓 <b>2026-09-12</b> </li>
-<li> 🎁 <a href="https://blog.kisechan.space/2026/esim/">eSIM 折腾记录</a> | 🗓 <b>2026-08-25</b> </li>
+<li> 🎈 <a href="https://blog.kisechan.space/2026/algorithm-rehabilitation/">算法题复健和推免机试记录</a> | 🗓 <b>2026-09-15</b> </li>
+<li> 🎁 <a href="https://blog.kisechan.space/2026/zed/">我的简易 Zed 配置和使用体验</a> | 🗓 <b>2026-09-12</b> </li>
 <!-- BLOG-POST-LIST:END -->
 
 ## Reach Me :loudspeaker:
