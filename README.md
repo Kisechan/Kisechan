@@ -58,11 +58,11 @@ Hello, here is **Kisechan**!
 
 Here are my latest [blog](https://blog.kisechan.space/) posts:
 
-<!-- BLOG-POST-LIST:START --><li> 💎 <a href="https://blog.kisechan.space/2026/dreaming-live/">“正确”的理想的，我的生活</a> | 🗓 <b>2026-11-13</b> </li>
+<!-- BLOG-POST-LIST:START --><li> 💎 <a href="https://blog.kisechan.space/2026/reinforcement-learning/">强化学习概述：复习一些经典算法</a> | 🗓 <b>2026-11-14</b> </li>
+<li> 🎀 <a href="https://blog.kisechan.space/2026/dreaming-live/">“正确”的理想的，我的生活</a> | 🗓 <b>2026-11-13</b> </li>
 <li> 🎀 <a href="https://blog.kisechan.space/2026/web-for-agents/">Agent 时代一些有意思的 Web 小惯例</a> | 🗓 <b>2026-10-23</b> </li>
-<li> 🎀 <a href="https://blog.kisechan.space/2026/for-new-myself/">写给新的日子中，失败的我</a> | 🗓 <b>2026-10-08</b> </li>
-<li> 🎈 <a href="https://blog.kisechan.space/2026/games-for-mac/">用 Wine 在 Mac 上玩一些老 galgame 的方法</a> | 🗓 <b>2026-10-01</b> </li>
-<li> 🎁 <a href="https://blog.kisechan.space/2026/algorithm-rehabilitation/">算法题复健和推免机试记录</a> | 🗓 <b>2026-09-15</b> </li>
+<li> 🎈 <a href="https://blog.kisechan.space/2026/for-new-myself/">写给新的日子中，失败的我</a> | 🗓 <b>2026-10-08</b> </li>
+<li> 🎁 <a href="https://blog.kisechan.space/2026/games-for-mac/">用 Wine 在 Mac 上玩一些老 galgame 的方法</a> | 🗓 <b>2026-10-01</b> </li>
 <!-- BLOG-POST-LIST:END -->
 
 ## Reach Me :loudspeaker:
