@@ -58,11 +58,11 @@ Hello, here is **Kisechan**!
 
 Here are my latest [blog](https://blog.kisechan.space/) posts:
 
-<!-- BLOG-POST-LIST:START --><li> 💎 <a href="https://blog.kscn.uk/2026/cloudflare-dns/">Cloudflare 文档学习：DNS</a> | 🗓 <b>2026-11-22</b> </li>
+<!-- BLOG-POST-LIST:START --><li> 💎 <a href="https://blog.kscn.uk/2026/cometa/">Κομήτης 的历史和思维，若能成为彗星</a> | 🗓 <b>2026-11-23</b> </li>
+<li> 🎀 <a href="https://blog.kscn.uk/2026/cloudflare-dns/">Cloudflare 文档学习：DNS</a> | 🗓 <b>2026-11-22</b> </li>
 <li> 🎀 <a href="https://blog.kscn.uk/2026/starry-and-voyage-1977/">星空和 Voyage 1977</a> | 🗓 <b>2026-11-20</b> </li>
-<li> 🎀 <a href="https://blog.kscn.uk/2026/reinforcement-learning/">强化学习概述：复习一些经典算法</a> | 🗓 <b>2026-11-14</b> </li>
-<li> 🎈 <a href="https://blog.kscn.uk/2026/dreaming-live/">“正确”的理想的，我的生活</a> | 🗓 <b>2026-11-13</b> </li>
-<li> 🎁 <a href="https://blog.kscn.uk/2026/web-for-agents/">Agent 时代一些有意思的 Web 小惯例</a> | 🗓 <b>2026-10-23</b> </li>
+<li> 🎈 <a href="https://blog.kscn.uk/2026/reinforcement-learning/">强化学习概述：复习一些经典算法</a> | 🗓 <b>2026-11-14</b> </li>
+<li> 🎁 <a href="https://blog.kscn.uk/2026/dreaming-live/">“正确”的理想的，我的生活</a> | 🗓 <b>2026-11-13</b> </li>
 <!-- BLOG-POST-LIST:END -->
 
 ## Reach Me :loudspeaker:
